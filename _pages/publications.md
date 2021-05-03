@@ -11,4 +11,4 @@ author_profile: true
 
 {% include base_path %}
 
-[Google Scholar](https://scholar.google.com/citations?user=g_MmNEoAAAAJ) (*Equal Contribution)
+[Google Scholar](https://scholar.google.com/citations?user=g_MmNEoAAAAJ) (* Equal Contribution)

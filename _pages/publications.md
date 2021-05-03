@@ -16,7 +16,7 @@ author_profile: true
 ## 2021
 * SLGT4Rec: Self-adaptive Local-Global aware Transformer for Sequential Recommendation.  
 Jiang, J.\*, __Luo, Y.\*__, Zhang, P., Gao, J., Kim, J., Liu, Q., Kim, S.  
-Submitted to __CIKM 2021__. [[Codes](https://github.com/juyongjiang/SLGT)]  
+Submitted to __ICDM 2021__. [[Codes](https://github.com/juyongjiang/SLGT)]  
   
 * Nonparametric discovery of Partial Differential Equations with Varying Coefficients.  
 __Luo, Y.__, Liu, Q., Chen, Y., Zhu, J.  

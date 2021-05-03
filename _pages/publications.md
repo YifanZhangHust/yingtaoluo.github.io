@@ -24,4 +24,4 @@ Submitted to NeurIPS 2021. [[Codes](https://github.com/yingtaoluo/Nonparametric-
 
 * STAN: Spatio-Temporal Attention Network for the Next Location Recommendation.  
 __Luo, Y.__, Liu, Q., Liu, Z.  
-Submitted to NeurIPS 2021. [[Codes](https://github.com/yingtaoluo/Spatial-Temporal-Attention-Network-for-POI-Recommendation)]
+Published in WWW 2021. [[Codes](https://github.com/yingtaoluo/Spatial-Temporal-Attention-Network-for-POI-Recommendation)]

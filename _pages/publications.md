@@ -32,6 +32,6 @@ __Ying-Tao Luo__, Peng-Qi Li, Dong-Ting Li, Yu-Gui Peng, Zhi-Guo Geng, Shu-Huan 
 Published in __Research__ (Flagship __Science__ Partner Journal). Oral at NeurIPS 2020 ML4PS. [[Codes](github.com/yingtaoluo/Probabilistic-density-network)]  [[DOI](https://doi.org/10.1016/j.memsci.2020.118910)]
   
 * Nonparametric discovery of Partial Differential Equations with Varying Coefficients.  
-Ziyang Zhang\*, __YingtaoLuo\*__, Huawen Peng, Yu Chen., Rong-Zhen Liao, QiangZhao.  
+Ziyang Zhang\*, __Yingtao Luo\*__, Huawen Peng, Yu Chen., Rong-Zhen Liao, QiangZhao.  
 Published in __Journal of Membrane Science__ (Top in Filtration). Poster at NeurIPS 2020 ML4Mol. [[Codes](https://github.com/yingtaoluo/Nanofiltration-Membrane-Deep-Learning)]  [[DOI](https://doi.org/10.34133/2020/8757403)] 
 

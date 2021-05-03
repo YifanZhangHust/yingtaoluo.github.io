@@ -24,7 +24,7 @@ Submitted to __NeurIPS 2021__. [[Codes](https://github.com/yingtaoluo/Nonparamet
 
 * STAN: Spatio-Temporal Attention Network for the Next Location Recommendation.  
 __Yingtao Luo__, Qiang Liu, Zhaocheng Liu.  
-Published in __WWW 2021__. [[Codes](https://github.com/yingtaoluo/Spatial-Temporal-Attention-Network-for-POI-Recommendation)]
+Published in __WWW 2021__. [[Codes](https://github.com/yingtaoluo/Spatial-Temporal-Attention-Network-for-POI-Recommendation)] [[Talk](https://www.youtube.com/watch?v=ajNzESvOvzs)].
 
 ## 2020
 * Probability-Density-Based Deep Learning Paradigm for the Fuzzy Design of Functional Metastructures.  

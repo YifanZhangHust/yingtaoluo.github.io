@@ -11,7 +11,7 @@ author_profile: true
 
 {% include base_path %}
 
-[Google Scholar](https://scholar.google.com/citations?user=g_MmNEoAAAAJ) (* Equal Contribution)  
+[Google Scholar](https://scholar.google.com/citations?user=g_MmNEoAAAAJ) (\* Equal Contribution)  
   
 ## 2021
 Jiang, J.*, Luo, Y.*, Zhang, P., Gao, J., Kim, J., Liu, Q., Kim, S. SLGT4Rec: Self-adaptive

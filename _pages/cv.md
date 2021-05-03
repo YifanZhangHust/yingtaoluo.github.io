@@ -49,5 +49,6 @@ Awards
   
 Language
 ======
-TOEFL 106/120 (Reading 28, Listening 27, Speaking 24, Writing 27); GRE AW 4/6
+* TOEFL 106/120 (Reading 28, Listening 27, Speaking 24, Writing 27)
+* GRE AW 4/6
   

@@ -31,7 +31,6 @@ Work experience
 
 * 2018.05 -- 2019.06: Research Assistant, Interdisciplinary Research Center, Huazhong U of Sci and Tech
   * Project: Machine Learning and Scientific Discovery.
-  * Advisor: [Prof. Xuefeng Zhu](https://scholar.google.com/citations?user=qHpUKWwAAAAJ) and [Prof. Kun He](https://scholar.google.com/citations?user=YTQnGJsAAAAJ) 
   * Results: Two published papers in top journals and one paper under review of Nature Communications.
   
 Skills

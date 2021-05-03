@@ -31,7 +31,7 @@ Published in __WWW 2021__. [[Codes](https://github.com/yingtaoluo/Spatial-Tempor
 __Ying-Tao Luo__, Peng-Qi Li, Dong-Ting Li, Yu-Gui Peng, Zhi-Guo Geng, Shu-Huan Xie, Yong Li, Andrea Alù, Jie Zhu, Xue-Feng Zhu.  
 Published in __Research__ (Flagship __Science__ Partner Journal). Oral at __NeurIPS 2020 ML4PS__. [[Codes](github.com/yingtaoluo/Probabilistic-density-network)]  [[DOI](https://doi.org/10.1016/j.memsci.2020.118910)]
   
-* Nonparametric discovery of Partial Differential Equations with Varying Coefficients.  
+* Deep spatial representation learning of polyamide nanofiltration membranes.  
 Ziyang Zhang\*, __Yingtao Luo\*__, Huawen Peng, Yu Chen., Rong-Zhen Liao, QiangZhao.  
 Published in __Journal of Membrane Science__ (Top in Filtration). Poster at __NeurIPS 2020 ML4Mol__. [[Codes](https://github.com/yingtaoluo/Nanofiltration-Membrane-Deep-Learning)]  [[DOI](https://doi.org/10.34133/2020/8757403)] 
 

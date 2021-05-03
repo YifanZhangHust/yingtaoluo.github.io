@@ -8,20 +8,25 @@ redirect_from:
   - /about.html
 ---
 
-Yingtao Luo is a Graduate MS Student in Computer Science at the University of Washington. His research interests include data mining, machine learning, text mining, recommender systems, etc. He published several papers in NeurIPS, WWW and ICDM.
+Yingtao Luo is a Graduate MS Student in Computer Science at the University of Washington. His research interests include data mining, machine learning, text mining, recommender systems, etc. He published several papers in NeurIPS, WWW and ICDM.  
+Yingtao Luo is currently applying for PhD programs in 2022. Please feel free to contact him at yl3851@uw.edu.
 
 Research Interest
 ======
 Data Mining, Causal Inference, Text Mining, Information Retrieval, Interdisciplinary Applications.
 
-Getting started
+Recent Events
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+- Submitted a paper to NeurIPS 2021 involving the nonparametric discovery of partial differential equation with random coefficients.
+- Submitted a paper to NeurIPS 2021 involving the reject inference applications in financial risk control.
+- Submitted a paper to ICDM 2021 involving an adaptive local-global transformer for sequential recommendation system.
+- Submitted a paper to ICDM 2021 involving a state-of-the-art user profiling system.
+- Working on a project (Also CSE 547 course project with Prof. Tim Althoff at UW) involving self-supervised causal inference for recommendation system.
+- Working on a project involving graph convolutional kernel reinvention.
+
+Collaborations
+======
+I welcome potential collaborations. Please drop me a CV and an outline of research proposal.
 
 Site-wide configuration
 ------

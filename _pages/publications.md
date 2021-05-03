@@ -33,5 +33,5 @@ Published in __Research__ (Flagship __Science__ Partner Journal). Oral at __Neur
   
 * Deep spatial representation learning of polyamide nanofiltration membranes.  
 Ziyang Zhang\*, __Yingtao Luo\*__, Huawen Peng, Yu Chen., Rong-Zhen Liao, QiangZhao.  
-Published in __Journal of Membrane Science__ (Top in Filtration). Poster at __NeurIPS 2020 ML4Mol__. [[Codes](https://github.com/yingtaoluo/Nanofiltration-Membrane-Deep-Learning)]  [[DOI](https://doi.org/10.34133/2020/8757403)] 
+Published in __Journal of Membrane Science__. Poster at __NeurIPS 2020 ML4Mol__. [[Codes](https://github.com/yingtaoluo/Nanofiltration-Membrane-Deep-Learning)]  [[DOI](https://doi.org/10.34133/2020/8757403)] 
 

@@ -14,7 +14,7 @@ author_profile: true
 [Google Scholar](https://scholar.google.com/citations?user=g_MmNEoAAAAJ) (\* Equal Contribution)  
   
 ## 2021
-Jiang, J.*, Luo, Y.*, Zhang, P., Gao, J., Kim, J., Liu, Q., Kim, S. SLGT4Rec: Self-adaptive
-Local-Global aware Transformer for Sequential Recommendation. Submitted to CIKM 2021.
-* Equal Contribution. https://github.com/juyongjiang/SLGT
+* SLGT4Rec: Self-adaptive Local-Global aware Transformer for Sequential Recommendation.  
+Jiang, J.\*, Luo, Y.\*, Zhang, P., Gao, J., Kim, J., Liu, Q., Kim, S.  
+Submitted to CIKM 2021. [Codes](https://github.com/juyongjiang/SLGT)
 

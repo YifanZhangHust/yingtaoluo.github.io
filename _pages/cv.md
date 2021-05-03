@@ -11,14 +11,14 @@ redirect_from:
 
 Education
 ======
-* Dual B.S. in Applied Physics and Computer Science, Huazhong University of Science and Technology, 2019
 * M.S. in Computer Science, University of Washington, 2022 (expected)
+* Dual B.S. in Applied Physics and Computer Science, Huazhong University of Science and Technology, 2019
 
 Work experience
 ======
 * 2020.05 -- 2021.05: Research Assistant, Computer Science TSAIL Group, Tsinghua University 
   * Project: 1. Machine Learning and Causal Inference.
-  * Advisor: Prof. Jun Zhu
+  * Advisor: [Prof. Jun Zhu](https://shopify.github.io/liquid/tags/control-flow/)
   * Results: One paper submitted to Science Advances; two papers submitted to NeurIPS 2021.
 
 * 2020.05 -- 2021.05: Machine Learning Intern, RealAI 
@@ -31,7 +31,7 @@ Work experience
 
 * 2018.05 -- 2019.06: Research Assistant, Interdisciplinary Research Center, Huazhong U of Sci and Tech
   * Project: Machine Learning and Scientific Discovery.
-  * Advisor: Prof. Xuefeng Zhu & Prof. Kun He & Prof. Qiang Zhao
+  * Advisor: Prof. Kun He
   * Results: One paper published in Research (Flagship Science Partner Journal) and orally presented at NeurIPS 2020 ML4PS workshop; one paper published in Journal of Membrane Science (Top 1st Journal in Filtration) and poster presented at NeurIPS 2020 ML4Mol workshop. One paper under review of Nature Communications.
   
 Skills

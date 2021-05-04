@@ -16,7 +16,7 @@ Education
 Work experience
 ======
 * 2020.05 -- 2021.05: Research Assistant, Computer Science TSAIL Group, Tsinghua University 
-  * Project: 1. Machine Learning and Causal Inference.
+  * Project: Machine Learning and Causal Inference.
   * Advisor: [Prof. Jun Zhu](http://ml.cs.tsinghua.edu.cn/~jun/index.shtml)
   * Results: One paper submitted to Science Advances; two papers submitted to NeurIPS 2021.
 

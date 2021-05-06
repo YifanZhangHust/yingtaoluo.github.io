@@ -15,11 +15,11 @@ author_profile: true
   
 ## 2021
 * SLGT: Self-adaptive Local-Global aware Transformer for Sequential Recommendation.  
-Jiang, J.\*, __Luo, Y.\*__, Zhang, P., Gao, J., Kim, J., Liu, Q., Kim, S.  
+Juyong Jiang\*, __Yingtao Luo\*__, Zhang, P., Gao, J., Kim, J., Liu, Q., Kim, S.  
 Submitted to __ICDM 2021__. [[Codes](https://github.com/juyongjiang/SLGT)]  
   
 * Nonparametric discovery of Partial Differential Equations with Varying Coefficients.  
-__Luo, Y.__, Liu, Q., Chen, Y., Zhu, J.  
+__Yingtao Luo__, Qiang Liu, Yuntian Chen, Jun Zhu.  
 Submitted to __NeurIPS 2021__. [[Codes](https://github.com/yingtaoluo/Nonparametric-Learning-PDE-Random-Coefficient)]
 
 * STAN: Spatio-Temporal Attention Network for the Next Location Recommendation.  

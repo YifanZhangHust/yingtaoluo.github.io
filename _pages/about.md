@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Yingtao Luo is a Graduate MS Student in Computer Science at the University of Washington. His research interests include data mining, machine learning, text mining, recommender systems, etc. He published several papers in NeurIPS, WWW and ICDM.  
+Yingtao Luo is a Graduate MS Student in Computer Science at the University of Washington. His research interests include data mining, machine learning, text mining, recommender systems, etc. He published/submitted several papers in/to NeurIPS, WWW and ICDM.  
 
 Yingtao Luo is currently applying for PhD programs in 2022. Please feel free to contact him at yl3851@uw.edu.
 
@@ -19,9 +19,8 @@ Data Mining, Causal Inference, Text Mining, Information Retrieval, Interdiscipli
 Recent Events
 ======
 - Submitted a paper to NeurIPS 2021 involving the nonparametric discovery of partial differential equation with random coefficients.
-- Submitted a paper to NeurIPS 2021 involving the reject inference applications in financial risk control.
+- Submitted a paper to ICDM 2021 involving the reject inference applications in financial loan decision.
 - Submitted a paper to ICDM 2021 involving an adaptive local-global transformer for sequential recommendation system.
-- Submitted a paper to ICDM 2021 involving a state-of-the-art user profiling system.
 - Working on a project (Also CSE 547 course project with Prof. Tim Althoff at UW) involving self-supervised causal inference for recommendation system.
 - Working on a project involving graph convolutional kernel reinvention.
 

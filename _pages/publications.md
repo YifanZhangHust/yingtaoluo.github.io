@@ -13,6 +13,8 @@ author_profile: true
 
 [Google Scholar](https://scholar.google.com/citations?user=g_MmNEoAAAAJ) (\* Equal Contribution)  
   
+  Some preprints are not listed.
+  
 ## 2021
 * SLGT: Self-adaptive Local-Global aware Transformer for Sequential Recommendation.  
 Juyong Jiang\*, __Yingtao Luo\*__, Zhang, P., Gao, J., Kim, J., Liu, Q., Kim, S.  

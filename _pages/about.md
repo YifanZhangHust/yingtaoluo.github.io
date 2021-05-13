@@ -22,7 +22,7 @@ Recent Events
 - Submitted a paper to ICDM 2021 involving an adaptive local-global transformer for sequential recommendation system.
 - Preparing a (2nd-author) paper that might submit to ICDM 2021 involving the reject inference applications in financial loan decision.
 - Preparing a (2nd-author) paper that might submit to Science Advances involving the nested-formed partial differential equation discovery based on neural evolutionary tree search.
-- Working on a project (Also CSE 547 course project with Prof. Tim Althoff at UW) involving self-supervised causal inference for recommendation system.
+- Working on a (1st-author) project (From CSE 547 course project with Prof. Tim Althoff at UW) involving self-supervised causal inference for recommendation system.
 
 Collaborations
 ======

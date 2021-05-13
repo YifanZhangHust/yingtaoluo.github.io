@@ -18,8 +18,6 @@ Data Mining, Causal Inference, Text Mining, Information Retrieval, Interdiscipli
 
 Recent Events
 ======
-- Submitted a paper to NeurIPS 2021 involving the nonparametric discovery of partial differential equation with random coefficients.
-- Submitted a paper to ICDM 2021 involving an adaptive local-global transformer for sequential recommendation system.
 - Preparing a (2nd-author) paper that might submit to ICDM 2021 involving the reject inference applications in financial loan decision.
 - Preparing a (2nd-author) paper that might submit to Science Advances/Nature Machine Intelligence involving the nested-formed partial differential equation discovery based on neural evolutionary tree search.
 - Working on a (1st-author) project (From CSE 547 course project with Prof. Tim Althoff at UW) involving self-supervised causal inference for recommendation system.

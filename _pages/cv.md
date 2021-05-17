@@ -17,15 +17,15 @@ Work experience
 ======
 * 2020.05 -- 2021.05: Research Assistant, Computer Science TSAIL Group, Tsinghua University 
   * Project: Machine Learning and Causal Inference.
-  * Advisor: [Prof. Jun Zhu](http://ml.cs.tsinghua.edu.cn/~jun/index.shtml)
-  * Results: One paper submitted to Science Advances; two papers submitted to NeurIPS 2021.
+  * Advisor: [(Full) Prof. Jun Zhu](http://ml.cs.tsinghua.edu.cn/~jun/index.shtml)
+  * Results: One paper submitted to Science Advances; one paper submitted to NeurIPS 2021, one paper submitted to ICDM 2021.
 
 * 2020.05 -- 2021.05: Machine Learning Intern, RealAI 
   * Project: Recommender Systems and Personalization.
-  * Advisor: [Prof. Qiang Liu](https://john-qiangliu.tech/)
+  * Advisor: [(Assistant) Prof. Qiang Liu](https://john-qiangliu.tech/)
   * Results: One paper published in WWW 2021; two papers submitted to ICDM 2021.
 
-* 2019.07 -- 2021.02: Machine Learning Software Engineer, ZSFAB
+* 2019.07 -- 2020.02: Machine Learning Software Engineer, ZSFAB
   * Project: Software development and machine learning design of medical artificial materials.
 
 * 2018.05 -- 2019.06: Research Assistant, Interdisciplinary Research Center, Huazhong U of Sci and Tech

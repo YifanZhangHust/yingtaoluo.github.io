@@ -21,7 +21,7 @@ Juyong Jiang\*, __Yingtao Luo\*__, Zhang, P., Gao, J., Kim, J., Liu, Q., Kim, S.
 Submitted to __ICDM 2021__. [[Codes](https://github.com/juyongjiang/SLGT)]  
   
 * Nonparametric discovery of Partial Differential Equations with Varying Coefficients.  
-__Yingtao Luo__, Qiang Liu, Wenbo Hu, Yuntian Chen, Jun Zhu.  
+__Yingtao Luo__, Qiang Liu, Yuntian Chen, Wenbo Hu, Jun Zhu.  
 Submitted to __NeurIPS 2021__. [[Codes](https://github.com/yingtaoluo/Nonparametric-Learning-PDE-Random-Coefficient)]
 
 * STAN: Spatio-Temporal Attention Network for the Next Location Recommendation.  

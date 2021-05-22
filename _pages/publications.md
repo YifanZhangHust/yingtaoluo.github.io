@@ -17,7 +17,7 @@ author_profile: true
   
 ## 2021
 * SLGT: Self-adaptive Local-Global aware Transformer for Sequential Recommendation.  
-Juyong Jiang\*, __Yingtao Luo\*__, Zhang, P., Gao, J., Kim, J., Liu, Q., Kim, S.  
+Juyong Jiang\*, __Yingtao Luo\*__, Jae Boum Kim, Qiang Liu, Peiyan Zhang, Yueqi Xie, Sunghun Kim.  
 Submitted to __ICDM 2021__. [[Codes](https://github.com/juyongjiang/SLGT)]  
   
 * Nonparametric discovery of Partial Differential Equations with Varying Coefficients.  

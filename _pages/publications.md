@@ -16,11 +16,11 @@ author_profile: true
   Some preprints are not listed.
   
 ## 2021
-* SLGT: Self-adaptive Local-Global aware Transformer for Sequential Recommendation.  
+* Triple-Blind No Title now.  
 Juyong Jiang\*, __Yingtao Luo\*__, Jae Boum Kim, Qiang Liu, Peiyan Zhang, Yueqi Xie, Sunghun Kim.  
 Submitted to __ICDM 2021__. [[Codes](https://github.com/juyongjiang/SLGT)]  
   
-* Nonparametric discovery of Partial Differential Equations with Varying Coefficients.  
+* Double-Blind No Title now.  
 __Yingtao Luo__, Qiang Liu, Yuntian Chen, Wenbo Hu, Jun Zhu.  
 Submitted to __NeurIPS 2021__. [[Codes](https://github.com/yingtaoluo/Nonparametric-Learning-PDE-Random-Coefficient)]
 

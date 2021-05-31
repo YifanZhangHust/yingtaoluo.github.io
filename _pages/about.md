@@ -14,14 +14,15 @@ Yingtao Luo is currently applying for PhD programs in 2022. He had research expe
 
 Research Interest
 ======
-Data Mining, Causal Inference, Text Mining, Information Retrieval, Interdisciplinary Applications.
+Data Mining, Causal Inference, Machine Learning, Text Mining, Interdisciplinary (Physics, Healthcare, Finance, etc.).
 
 Recent Events
 ======
-- Preparing a (2nd-author) paper that might submit to ICDM 2021 involving the reject inference applications in financial loan decision.
-- Preparing a (2nd-author) paper that might submit to Science Advances/Nature Machine Intelligence involving the nested-formed partial differential equation discovery based on neural evolutionary tree search.
-- Working on a (1st-author) project (From CSE 547 course project with Prof. Tim Althoff at UW) involving self-supervised causal inference for recommendation system.
+- Preparing a (2nd-author) paper that might submit to ICDM 2021 or WWW 2022 involving the reject inference.
+- Preparing a (2nd-author) paper that might submit to Science Advances involving the nested-formed partial differential equation discovery.
+- Working on a (1st-author) project (From CSE 547 course project with Prof. Tim Althoff at UW) involving causal inference for sequential recommendation system.
+- Working on a (1st-author) project involving causal inference for healthcare data mining.
 
 Collaborations
 ======
-I welcome potential collaborations. Please drop me a CV and an outline of research proposal.
+Please drop me a CV and an outline of research proposal. If your interests match mine, we can chat.

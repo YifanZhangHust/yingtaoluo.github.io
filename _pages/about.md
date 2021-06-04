@@ -18,13 +18,8 @@ The best research is for results, not for means.
 
 Research Interest
 ======
-Data Mining, Causal Inference, Machine Learning, Text Mining, Interdisciplinary (Healthcare, Physical Science, etc.).
-
-Intersection Areas
-======
-1. PDE Discovery: Data Mining, Machine Learning, Mathematics, Physical Science.  
-2. Healthcare: Data Mining, Text Mining, Causal Inference, Physical Science.  
-3. Recommeder Systems: Data Mining, Text Mining, Causal Inference.  
+Data Mining, Causal Inference, Machine Learning, Text Mining, Interdisciplinary；  
+with applications in Healthcare, Recommeder Systems, and Physical Dynamics.
 
 Related Topics in Previous Research
 ======

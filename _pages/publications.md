@@ -16,13 +16,17 @@ author_profile: true
   Some preprints are not listed.
   
 ## 2021
-* Triple-Blind No Title now.  
+* Any equation is a forest: Symbolic genetic algorithm for discovering open-form partial differential equations (SGA-PDE).  
+Yuntian Chen, \, __Yingtao Luo__, Qiang Liu, Hao Xu, Dongxiao Zhang 
+Submitted to __Science Advances__ (A __Science__ Journal). [[Codes](https://github.com/juyongjiang/SLGT)]  
+
+* No Title Revealed Due To ICDM Requirement.  
 Juyong Jiang\*, __Yingtao Luo\*__, Jae Boum Kim, Qiang Liu, Peiyan Zhang, Yueqi Xie, Sunghun Kim.  
 Submitted to __ICDM 2021__. [[Codes](https://github.com/juyongjiang/SLGT)]  
   
-* Double-Blind No Title now.  
+* KO-PDE: Kernel Optimized Discovery of Partial Differential Equations with Varying Coefficients.  
 __Yingtao Luo__, Qiang Liu, Yuntian Chen, Wenbo Hu, Jun Zhu.  
-Submitted to __NeurIPS 2021__. [[Codes](https://github.com/yingtaoluo/Nonparametric-Learning-PDE-Random-Coefficient)]
+Submitted to __NeurIPS 2021__. [[Codes](https://github.com/yingtaoluo/Nonparametric-Learning-PDE-Random-Coefficient)]  [[DOI](https://arxiv.org/abs/2106.01078)]
 
 * STAN: Spatio-Temporal Attention Network for the Next Location Recommendation.  
 __Yingtao Luo__, Qiang Liu, Zhaocheng Liu.  

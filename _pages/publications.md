@@ -22,15 +22,15 @@ Yuntian Chen, __Yingtao Luo__, Qiang Liu, Hao Xu, Dongxiao Zhang
 
 * No Title Revealed Due To ICDM Requirement.  
 Juyong Jiang\*, __Yingtao Luo\*__, Jae Boum Kim, Qiang Liu, Peiyan Zhang, Yueqi Xie, Sunghun Kim.  
-*Submitted to __ICDM 2021__*. [[code](https://github.com/juyongjiang/SLGT)]  
+*Submitted to IEEE International Conference on Data Mining (__ICDM 2021__)*. [[code](https://github.com/juyongjiang/SLGT)]  
   
 * KO-PDE: Kernel Optimized Discovery of Partial Differential Equations with Varying Coefficients.  
 __Yingtao Luo__, Qiang Liu, Yuntian Chen, Wenbo Hu, Jun Zhu.  
-*Submitted to __NeurIPS 2021__*. [[code](https://github.com/yingtaoluo/Nonparametric-Learning-PDE-Random-Coefficient)]  [[pdf](https://arxiv.org/abs/2106.01078)]
+*Submitted to Conference on Neural Information Processing Systems (__NeurIPS 2021__)*. [[code](https://github.com/yingtaoluo/Nonparametric-Learning-PDE-Random-Coefficient)]  [[pdf](https://arxiv.org/abs/2106.01078)]
 
 * STAN: Spatio-Temporal Attention Network for the Next Location Recommendation.  
 __Yingtao Luo__, Qiang Liu, Zhaocheng Liu.  
-*Published in __WWW 2021__*. [[code](https://github.com/yingtaoluo/Spatial-Temporal-Attention-Network-for-POI-Recommendation)]  [[pdf](https://arxiv.org/abs/2102.04095)]  [[talk](https://www.youtube.com/watch?v=ajNzESvOvzs)].
+*Published in The Web Conference (__WWW 2021__)*. [[code](https://github.com/yingtaoluo/Spatial-Temporal-Attention-Network-for-POI-Recommendation)]  [[pdf](https://arxiv.org/abs/2102.04095)]  [[talk](https://www.youtube.com/watch?v=ajNzESvOvzs)].
 
 ## 2020
 * Probability-Density-Based Deep Learning Paradigm for the Fuzzy Design of Functional Metastructures.  

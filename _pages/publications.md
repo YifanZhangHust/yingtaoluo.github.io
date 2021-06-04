@@ -17,7 +17,7 @@ author_profile: true
   
 ## 2021
 * Any equation is a forest: Symbolic genetic algorithm for discovering open-form partial differential equations (SGA-PDE).  
-Yuntian Chen, \, __Yingtao Luo__, Qiang Liu, Hao Xu, Dongxiao Zhang 
+Yuntian Chen, __Yingtao Luo__, Qiang Liu, Hao Xu, Dongxiao Zhang 
 Submitted to __Science Advances__ (A __Science__ Journal). [[Codes](https://github.com/yingtaoluo/PDE-Discovery-with-Evolutionary-Tree-Search)]  
 
 * No Title Revealed Due To ICDM Requirement.  

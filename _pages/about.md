@@ -25,15 +25,15 @@ Intersection Areas
 Related Topics
 ======
 1. PDE Discovery: Sparse Regression, Neural Architecture Search, Symbolic AI.  
-2. Healthcare: Causal & Counterfactual, Multimodal, Sequential & Graph, etc.  
-3. Recommeder Systems: Transformers, Spatiotemporal Data, Graph, Debiasing, etc.  
+2. Healthcare: Causal & Counterfactual, Multimodal, Sequential, Graph, etc.  
+3. Recommeder Systems: Transformers, Sequential, Graph, Debiasing, etc.  
 
 Recent Events
 ======
-- Preparing a (2nd-author) paper that might submit to __WWW 2022__ involving the reject inference.
+- Preparing a (2nd-author) paper that might submit to __WWW 2022__ involving the causal reject inference.
 - Preparing a paper that might submit to __Nature__ using the PDE discovery for a healthcare dynamics.
-- Working on a (1st-author) project (From CSE 547 course project with Prof. Tim Althoff at UW) involving causal inference for sequential recommender system.
-- Working on a (1st-author) project involving causal inference for healthcare data mining.
+- Preparing on a (1st-author) paper that might submit to __WWW 2022__ involving causal inference for sequential recommender system.
+- Preparing on a (1st-author) paper that might submit to __WWW 2022__ involving causal inference for healthcare data mining.
 
 Collaborations
 ======

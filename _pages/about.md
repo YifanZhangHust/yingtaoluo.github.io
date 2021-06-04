@@ -19,7 +19,7 @@ Data Mining, Causal Inference, Machine Learning, Text Mining, Interdisciplinary 
 Recent Events
 ======
 - Preparing a (2nd-author) paper that might submit to __WWW 2022__ involving the reject inference.
-- Preparing a paper that might submit to __Nature__ the partial differential equation discovery of a key problem in healthcare dynamics.
+- Preparing a paper that might submit to __Nature__ using the PDE discovery for a healthcare dynamics.
 - Working on a (1st-author) project (From CSE 547 course project with Prof. Tim Althoff at UW) involving causal inference for sequential recommender system.
 - Working on a (1st-author) project involving causal inference for healthcare data mining.
 

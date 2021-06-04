@@ -34,7 +34,8 @@ Published in __WWW 2021__. [[Codes](https://github.com/yingtaoluo/Spatial-Tempor
 
 ## 2020
 * Probability-Density-Based Deep Learning Paradigm for the Fuzzy Design of Functional Metastructures.  
-__Ying-Tao Luo__, Peng-Qi Li, Dong-Ting Li, Yu-Gui Peng, Zhi-Guo Geng, Shu-Huan Xie, Yong Li, Andrea Alù, Jie Zhu, Xue-Feng Zhu.  
+__Ying-Tao Luo__, Peng-Qi Li, Dong-Ting Li, Yu-Gui Peng, Zhi-Guo Geng,  
+Shu-Huan Xie, Yong Li, Andrea Alù, Jie Zhu, Xue-Feng Zhu.  
 Published in __Research__ (Flagship __Science__ Partner Journal). Oral at __NeurIPS 2020 ML4PS__. [[Codes](github.com/yingtaoluo/Probabilistic-density-network)]  [[DOI](https://doi.org/10.1016/j.memsci.2020.118910)]
   
 * Deep spatial representation learning of polyamide nanofiltration membranes.  

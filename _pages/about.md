@@ -14,7 +14,19 @@ Yingtao Luo is currently applying for PhD programs in 2022. He had research expe
 
 Research Interest
 ======
-Data Mining, Causal Inference, Machine Learning, Text Mining, Interdisciplinary (Physics, Healthcare, Finance, etc.).
+Data Mining, Causal Inference, Machine Learning, Text Mining, Interdisciplinary (Healthcare, Physical Science, etc.).
+
+Intersection Areas
+======
+1. PDE Discovery: Data Mining, Machine Learning, Mathematics, Physical Science.  
+2. Healthcare: Data Mining, Text Mining, Causal Inference, Physical Science.  
+3. Recommeder Systems: Data Mining, Text Mining, Causal Inference.  
+
+Related Topics
+======
+1. PDE Discovery: Sparse Regression, Neural Architecture Search, Symbolic AI.  
+2. Healthcare: Causal & Counterfactual, Multimodal, Sequential & Graph, etc.  
+3. Recommeder Systems: Transformers, Spatiotemporal Data, Graph, Debiasing, etc.  
 
 Recent Events
 ======

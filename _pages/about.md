@@ -18,8 +18,8 @@ The best research is for results, not for means.
 
 Research Interest
 ======
-Data Mining, Causal Inference, Machine Learning, Text Mining, Interdisciplinary；  
-with applications in Healthcare, Recommeder Systems, and Physical Dynamics.
+Data Mining, Causal Inference, Machine Learning, Text Mining, with applications in:  
+Healthcare, Recommeder Systems, Natural Language Processing and Physical Dynamics.
 
 Related Topics in Previous Research
 ======

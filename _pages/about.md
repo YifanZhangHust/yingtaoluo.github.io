@@ -22,11 +22,13 @@ Intersection Areas
 2. Healthcare: Data Mining, Text Mining, Causal Inference, Physical Science.  
 3. Recommeder Systems: Data Mining, Text Mining, Causal Inference.  
 
-Related Topics
+Related Topics in Previous Research
 ======
-1. PDE Discovery: Sparse Regression, Neural Architecture Search, Symbolic AI.  
-2. Healthcare: Causal & Counterfactual, Multimodal, Sequential, Graph, etc.  
-3. Recommeder Systems: Transformers, Sequential, Graph, Debiasing, etc.  
+Sparse Regression, Neural Architecture Search, Symbolic AI, Causal & Counterfactual, Debiasing, Multimodal, Sequential Learning, Graph Learning, Transformers, Reinforcement Learning, etc.  
+
+Skills
+======
+Python, Spark, Matlab, C++, Linux, Latex, HTML, etc.
 
 Recent Events
 ======

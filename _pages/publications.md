@@ -20,7 +20,7 @@ author_profile: true
 Yuntian Chen, __Yingtao Luo__, Qiang Liu, Hao Xu, Dongxiao Zhang  
 *Submitted to __Science Advances__ (A __Science__ Journal)*. [[code](https://github.com/yingtaoluo/PDE-Discovery-with-Evolutionary-Tree-Search)]  
 
-* No Title Revealed Due To ICDM Requirement.  
+* SLGT: Self-adaptive Local-global aware Transformer for Sequential Recommendation.  
 Juyong Jiang\*, __Yingtao Luo\*__, Jae Boum Kim, Qiang Liu, Peiyan Zhang, Yueqi Xie, Sunghun Kim.  
 *Submitted to IEEE International Conference on Data Mining (__ICDM 2021__)*. [[code](https://github.com/juyongjiang/SLGT)]  
   

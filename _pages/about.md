@@ -27,8 +27,8 @@ Recent Events
 ======
 - Preparing a (2nd-author) paper that might submit to __WWW 2022__ involving the causal reject inference.
 - Preparing a paper that might submit to __Nature__ using the PDE discovery for a healthcare dynamics.
-- Preparing on a (1st-author) paper that might submit to __WWW 2022__ involving causal inference for sequential recommender system.
-- Preparing on a (1st-author) paper that might submit to __WWW 2022__ involving causal inference for healthcare data mining.
+- Preparing on a (1st-author) paper that might submit to __WSDM 2022__ involving causal inference for sequential recommender system.
+- Preparing on a (1st-author) paper that might submit to __KDD 2022__ involving causal inference for healthcare data mining.
 
 Collaborations
 ======

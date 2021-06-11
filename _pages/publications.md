@@ -30,7 +30,7 @@ __Yingtao Luo__, Qiang Liu, Yuntian Chen, Wenbo Hu, Jun Zhu.
 
 * STAN: Spatio-Temporal Attention Network for the Next Location Recommendation.  
 __Yingtao Luo__, Qiang Liu, Zhaocheng Liu.  
-*Published in The Web Conference (__WWW 2021__)*. [[code](https://github.com/yingtaoluo/Spatial-Temporal-Attention-Network-for-POI-Recommendation)]  [[pdf](https://arxiv.org/abs/2102.04095)]  [[talk](https://www.youtube.com/watch?v=ajNzESvOvzs)].
+*Published in The Web Conference (__WWW 2021__)*. [[code](https://github.com/yingtaoluo/Spatial-Temporal-Attention-Network-for-POI-Recommendation)]  [[pdf](https://doi.org/10.1145/3442381.3449998)]  [[talk](https://www.youtube.com/watch?v=ajNzESvOvzs)].
 
 ## 2020
 * Probability-Density-Based Deep Learning Paradigm for the Fuzzy Design of Functional Metastructures.  

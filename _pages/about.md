@@ -32,4 +32,4 @@ Recent Events
 
 Collaborations
 ======
-Please drop me a CV and an outline of research proposal. If your interests match mine, we can chat.
+Please drop me an outline of research proposal. If there is a match of interest, we can chat.

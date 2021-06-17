@@ -10,8 +10,8 @@ redirect_from:
 
 Education
 ======
-* M.S. in Computer Science, University of Washington, 2022 (expected)
-* Dual B.S. in Applied Physics and Computer Science, Huazhong University of Science and Technology, 2019
+* M.S. in Computer Science, University of Washington, 2020-2022 (GPA:3.8/4.0)
+* Dual B.S. in Applied Physics and Computer Science, Huazhong U of Sci and Tech, 2015-2019 (CS GPA:91/100, 4.0/4.0)
 
 Work experience
 ======

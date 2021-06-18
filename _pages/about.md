@@ -25,7 +25,6 @@ Python, Spark, Matlab, C++, Linux, Latex, HTML, etc.
 
 Recent Events
 ======
-- Preparing a (2nd-author) paper that might submit to __WWW 2022__ involving the causal reject inference.
 - Preparing a (2nd-author) paper that might submit to __Nature__ using the PDE discovery for a healthcare dynamics.
 - Preparing a (2nd-author) paper that might submit to __Nature Communications__ using AutoML for quantum entangled communication.
 - Working on a project involving causal inference for sequential recommender system.

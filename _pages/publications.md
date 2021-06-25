@@ -22,7 +22,7 @@ Qiang Liu, __Yingtao Luo__
 
 * Any equation is a forest: Symbolic genetic algorithm for discovering open-form partial differential equations.  
 Yuntian Chen, __Yingtao Luo__, Qiang Liu, Hao Xu, Dongxiao Zhang  
-*Submitted to __Science Advances__ (A __Science__ Journal)*. [[code](https://github.com/yingtaoluo/PDE-Discovery-with-Evolutionary-Tree-Search)] [[arXiv](https://arxiv.org/abs/2106.11927)] 
+*Submitted to __Science Advances__ (A __Science__ Journal)*. [[code](https://github.com/yingtaoluo/PDE-Discovery-with-Evolutionary-Tree-Search)]  [[arXiv](https://arxiv.org/abs/2106.11927)] 
 
 * SLGT: Self-adaptive Local-global aware Transformer for Sequential Recommendation.  
 Juyong Jiang\*, __Yingtao Luo\*__, Jae Boum Kim, Qiang Liu, Peiyan Zhang, Yueqi Xie, Sunghun Kim.  
@@ -30,7 +30,7 @@ Juyong Jiang\*, __Yingtao Luo\*__, Jae Boum Kim, Qiang Liu, Peiyan Zhang, Yueqi 
   
 * KO-PDE: Kernel Optimized Discovery of Partial Differential Equations with Varying Coefficients.  
 __Yingtao Luo__, Qiang Liu, Yuntian Chen, Wenbo Hu, Jun Zhu.  
-*Submitted to Conference on Neural Information Processing Systems (__NeurIPS 2021__)*. [[code](https://github.com/yingtaoluo/Nonparametric-Learning-PDE-Random-Coefficient)]  [[arXiv](https://arxiv.org/abs/2106.01078)]
+*Submitted to Conference on Neural Information Processing Systems (__NeurIPS 2021__)*. [[arXiv](https://arxiv.org/abs/2106.01078)]
 
 * STAN: Spatio-Temporal Attention Network for the Next Location Recommendation.  
 __Yingtao Luo__, Qiang Liu, Zhaocheng Liu.  

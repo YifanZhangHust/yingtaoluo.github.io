@@ -34,15 +34,15 @@ __Yingtao Luo__, Qiang Liu, Yuntian Chen, Wenbo Hu, Jun Zhu.
 
 * STAN: Spatio-Temporal Attention Network for the Next Location Recommendation.  
 __Yingtao Luo__, Qiang Liu, Zhaocheng Liu.  
-*Published in The Web Conference (__WWW 2021__)*. [[code](https://github.com/yingtaoluo/Spatial-Temporal-Attention-Network-for-POI-Recommendation)]  [[arXiv](https://doi.org/10.1145/3442381.3449998)]  [[DOI](https://dl.acm.org/doi/10.1145/3442381.3449998)]  [[talk](https://www.youtube.com/watch?v=ajNzESvOvzs)].
+*Published in The Web Conference (__WWW 2021__)*. [[code](https://github.com/yingtaoluo/Spatial-Temporal-Attention-Network-for-POI-Recommendation)]  [[arXiv](https://arxiv.org/abs/2102.04095)]  [[DOI](https://doi.org/10.1145/3442381.3449998)]  [[talk](https://www.youtube.com/watch?v=ajNzESvOvzs)].
 
 ## 2020
 * Probability-Density-Based Deep Learning Paradigm for the Fuzzy Design of Functional Metastructures.  
 __Ying-Tao Luo__, Peng-Qi Li, Dong-Ting Li, Yu-Gui Peng, Zhi-Guo Geng,  
 Shu-Huan Xie, Yong Li, Andrea Alù, Jie Zhu, Xue-Feng Zhu.  
-*Published in __Research__ (Flagship __Science__ Partner Journal). Oral at __NeurIPS 2020 ML4PS__*. [[code](github.com/yingtaoluo/Probabilistic-density-network)]  [[DOI](https://doi.org/10.1016/j.memsci.2020.118910)]
+*Published in __Research__ (Flagship __Science__ Partner Journal). Oral at __NeurIPS 2020 ML4PS__*. [[code](github.com/yingtaoluo/Probabilistic-density-network)]  [[DOI](https://doi.org/10.34133/2020/8757403)]
   
 * Deep spatial representation learning of polyamide nanofiltration membranes.  
 Ziyang Zhang\*, __Yingtao Luo\*__, Huawen Peng, Yu Chen., Rong-Zhen Liao, QiangZhao.  
-*Published in __Journal of Membrane Science__. Poster at __NeurIPS 2020 ML4Mol__*. [[code](https://github.com/yingtaoluo/Nanofiltration-Membrane-Deep-Learning)]  [[DOI](https://doi.org/10.34133/2020/8757403)] 
+*Published in __Journal of Membrane Science__. Poster at __NeurIPS 2020 ML4Mol__*. [[code](https://github.com/yingtaoluo/Nanofiltration-Membrane-Deep-Learning)]  [[DOI](https://doi.org/10.1016/j.memsci.2020.118910)] 
 

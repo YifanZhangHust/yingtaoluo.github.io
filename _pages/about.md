@@ -15,20 +15,12 @@ Research Interest
 Data Mining, Causal Inference, Machine Learning, Text Mining, with applications in:  
 Healthcare, Recommeder Systems, Natural Language Processing and Physical Dynamics.
 
-Related Topics in Previous Research
-======
-Sparse Regression, Neural Architecture Search, Symbolic AI, Causal & Counterfactual, Debiasing, Multimodal, Sequential Learning, Graph Learning, Transformers, Reinforcement Learning, etc.  
-
 Skills
 ======
 Python, Spark, Matlab, C++, Linux, Latex, HTML, etc.
 
 Recent Events
 ======
-- Preparing a (2nd-author) paper that might submit to __Nature__ using the PDE discovery for a healthcare dynamics.
-- Preparing a (2nd-author) paper that might submit to __Nature Communications__ using AutoML for quantum entangled communication.
-- Working on a project involving causal inference for sequential recommender system.
-- Collaborating on a project involving causal inference for graph data mining.
 - Working on a project involving causal inference for healthcare data mining.
 
 Collaborations

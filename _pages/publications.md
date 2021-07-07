@@ -17,7 +17,7 @@ author_profile: true
   
 ## 2021
 * RMT-Net: Reject-aware Multi-Task Network for Reject Inference in Financial Credit Scoring.  
-Qiang Liu, __Yingtao Luo__  
+Qiang Liu, __Yingtao Luo__, Jun Zhu  
 *Submitted to The Web Conference (__WWW 2022__)*.
 
 * Any equation is a forest: Symbolic genetic algorithm for discovering open-form partial differential equations.  

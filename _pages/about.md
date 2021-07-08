@@ -21,9 +21,10 @@ Python, Spark, Matlab, C++, Linux, Latex, HTML, etc.
 - Working on a project involving causal inference for healthcare data mining.
 
 ## Collaborations
-Please drop me an outline of research proposal. If there is a match of interest, we can chat.
+Please drop me an outline of research proposal. If there is a match of interest, we can chat.  
+I am applying for Ph.D. program in 2022. Please feel free to contact me.
   
 ## Some Fun Facts
 The homophony of my name in Chinese means "strawberry" in English.  
-As a young student, I have humbly declined all invitations to make me a conference reviewer.
+As a young student, I have humbly declined all invitations to make me a conference reviewer.  
 Many research results are transformed into patents and are creating value in the real world!

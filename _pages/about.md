@@ -26,3 +26,9 @@ Recent Events
 Collaborations
 ======
 Please drop me an outline of research proposal. If there is a match of interest, we can chat.
+  
+Some Fun Facts
+======
+The homophony of my name in Chinese means "strawberry" in English.  
+As a young student, I have humbly declined all invitations to make me a conference reviewer.
+Many research results are transformed into patents and are creating value in the real world!

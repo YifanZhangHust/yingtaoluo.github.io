@@ -11,7 +11,7 @@ redirect_from:
 Yingtao Luo is a Graduate MS Student in Computer Science at the University of Washington. His research interests include data mining, machine learning, text mining, recommender systems, etc. Please feel free to contact him at yl3851@uw.edu.
 
 Research Interest
-=====
+=
 Data Mining, Causal Inference, Machine Learning, Text Mining, with applications in:  
 Healthcare, Recommeder Systems, Natural Language Processing and Physical Dynamics.
 

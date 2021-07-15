@@ -18,7 +18,8 @@ Healthcare, Recommeder Systems, Natural Language Processing and Physical Dynamic
 Python, Spark, Matlab, C++, Linux, Latex, HTML, etc.
 
 ## Recent Events
-- Working on a project involving causal inference for healthcare data mining.
+- Working on a project involving causal inference for healthcare data mining.  
+- Working on a project involving discovering PDE model for financial stock market.
 
 ## Collaborations
 Please drop me an outline of research proposal. If there is a match of interest, we can chat.  
@@ -26,5 +27,6 @@ I am applying for Ph.D. program in 2022. Please feel free to contact me.
   
 ## Some Fun Facts
 The homophony of my name in Chinese means "strawberry" in English.  
-As a young student, I have humbly declined all invitations to make me a conference reviewer.  
-Many research results are transformed into patents and are creating value in the real world!
+May I humbly declined the invitations to make me a conference reviewer as I am a young student?  
+My research results are transformed into patents to create value in the real world!
+Thanks to industrial partners, I pay all my tuition by scholarships and patent earning.

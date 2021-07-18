@@ -26,7 +26,7 @@ Work experience
 * 2020.06 -- 2021.05: Machine Learning Intern, RealAI
   * Project: Recommender Systems and User Modeling.
   * Advisor: [(Assistant) Prof. Qiang Liu](https://john-qiangliu.tech/)
-  * Results: One paper published in WWW 2021; one paper submitted to ICDM 2021.
+  * Results: One publication in WWW 2021; two papers submitted to ICDM 2021 and WWW 2022.
 
 * 2019.03 -- 2020.05: Machine Learning Intern, Machine Learning Group, Baidu Research
   * Project: Machine Learning Platform - Paddle PGL (Graph Learning) Development.

@@ -15,22 +15,28 @@ Education
 
 Work experience
 ======
-* 2020.05 -- 2021.05: Research Assistant, Computer Science TSAIL Group, Tsinghua University 
-  * Project: Machine Learning and Causal Inference.
+* Recent: Research Intern, Machine Learning Group, Microsoft Research Asia 
+  * Project: PDE Learning for Finance.
+
+* 2020.06 -- 2021.05: Research Assistant, Computer Science TSAIL Group, Tsinghua University 
+  * Project: Machine Learning PDE Discovery.
   * Advisor: [(Full) Prof. Jun Zhu](http://ml.cs.tsinghua.edu.cn/~jun/index.shtml)
-  * Results: One paper submitted to Science Advances; one paper submitted to NeurIPS 2021.
+  * Results: One paper submitted to PNAS; one paper submitted to NeurIPS 2021.
 
-* 2020.05 -- 2021.05: Machine Learning Intern, RealAI 
-  * Project: Recommender Systems and Personalization.
+* 2020.06 -- 2021.05: Machine Learning Intern, RealAI
+  * Project: Recommender Systems and User Modeling.
   * Advisor: [(Assistant) Prof. Qiang Liu](https://john-qiangliu.tech/)
-  * Results: One paper published in WWW 2021; two papers submitted to ICDM 2021.
+  * Results: One paper published in WWW 2021; one paper submitted to ICDM 2021.
 
-* 2019.07 -- 2020.02: Machine Learning Software Engineer, ZSFAB
-  * Project: Software development and machine learning design of medical artificial materials.
+* 2019.03 -- 2020.05: Machine Learning Intern, Machine Learning Group, Baidu Research
+  * Project: Machine Learning Platform - Paddle PGL (Graph Learning) Development.
+
+* 2019.08 -- 2020.01: Machine Learning Software Engineer, ZSFAB
+  * Project: Software development and machine learning design of medical embedded devices.
 
 * 2018.05 -- 2019.06: Research Assistant, Interdisciplinary Research Center, Huazhong U of Sci and Tech
   * Project: Machine Learning and Scientific Discovery.
-  * Results: Two published papers in top journals and one paper under review of Nature Communications.
+  * Results: Two published papers in top journals.
   
 Skills
 ======

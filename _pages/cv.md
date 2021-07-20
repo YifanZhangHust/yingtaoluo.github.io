@@ -28,9 +28,9 @@ Work experience
   * Advisor: [(Assistant) Prof. Qiang Liu](https://john-qiangliu.tech/)
   * Results: One publication in WWW 2021; two papers submitted to ICDM 2021 and WWW 2022.
 
-* 2019.03 -- 2020.05: Machine Learning Intern, Machine Learning Group, Baidu Research
+* 2020.03 -- 2020.05: Machine Learning Intern, Machine Learning Group, Baidu Research
   * Project: OS Platform - [PaddlePaddle](https://github.com/PaddlePaddle) Development.
-  * Results: The memory-saving graph computation blocks, 13 pretrained new models.
+  * Results: The developement of memory-saving graph computation blocks, multiple pretrained models.
 
 * 2019.08 -- 2020.01: Machine Learning Software Engineer, ZSFAB
   * Project: Software development and machine learning design of medical embedded devices.

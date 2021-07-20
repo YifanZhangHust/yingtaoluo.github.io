@@ -16,7 +16,7 @@ Education
 Work experience
 ======
 * Recent: Research Intern, Machine Learning Group, Microsoft Research Asia 
-  * Project: PDE Learning for Finance.
+  * Project: PDE Learning for Finance and OS Platform - [Qlib](https://github.com/microsoft/qlib) Development.
 
 * 2020.06 -- 2021.05: Research Assistant, Computer Science TSAIL Group, Tsinghua University 
   * Project: Machine Learning PDE Discovery. (with Tsinghua-Bosch Joint Lab)

@@ -47,6 +47,7 @@ Skills
 Awards
 ======
 * Student Scholarship of TheWebConf, 2021.
+* Bosch Patent Encouragement Award, 2021.
 * Baidu Paddle Developer Scholarship, 2020.
 * Outstanding Graduate Representative of HUST (Top 1%, 40 out of 6800 in university), 2019.
 * Meritorious Winner of Interdisciplinary Contest of Modeling (Top 9% globally), 2018

@@ -19,17 +19,17 @@ Work experience
   * Project: PDE Learning for Finance.
 
 * 2020.06 -- 2021.05: Research Assistant, Computer Science TSAIL Group, Tsinghua University 
-  * Project: Machine Learning PDE Discovery.
+  * Project: Machine Learning PDE Discovery. (with Tsinghua-Bosch Joint Lab)
   * Advisor: [(Full) Prof. Jun Zhu](http://ml.cs.tsinghua.edu.cn/~jun/index.shtml)
   * Results: One paper submitted to PNAS; one paper submitted to NeurIPS 2021.
 
 * 2020.06 -- 2021.05: Machine Learning Intern, RealAI
-  * Project: Recommender Systems and User Modeling.
+  * Project: Data Mining Research in RecSys and Finance.
   * Advisor: [(Assistant) Prof. Qiang Liu](https://john-qiangliu.tech/)
   * Results: One publication in WWW 2021; two papers submitted to ICDM 2021 and WWW 2022.
 
 * 2019.03 -- 2020.05: Machine Learning Intern, Machine Learning Group, Baidu Research
-  * Project: Machine Learning Platform - Paddle PGL (Graph Learning) Development.
+  * Project: OS Platform - [Paddle PGL](https://github.com/PaddlePaddle/PGL) (Graph Learning) Development.
 
 * 2019.08 -- 2020.01: Machine Learning Software Engineer, ZSFAB
   * Project: Software development and machine learning design of medical embedded devices.

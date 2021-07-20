@@ -30,7 +30,7 @@ Work experience
 
 * 2020.03 -- 2020.05: Machine Learning Intern, Machine Learning Group, Baidu Research
   * Project: OS Platform - [PaddlePaddle](https://github.com/PaddlePaddle) Development.
-  * Results: The developement of memory-saving graph computation blocks, multiple pretrained models.
+  * Results: Memory-saving graph computation blocks, multiple pretrained NLP & RL models.
 
 * 2019.08 -- 2020.01: Machine Learning Software Engineer, ZSFAB
   * Project: Software development and machine learning design of medical embedded devices.

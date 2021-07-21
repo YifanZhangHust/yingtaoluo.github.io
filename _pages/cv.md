@@ -24,7 +24,7 @@ Work experience
   * Results: One paper submitted to PNAS; one paper submitted to NeurIPS 2021.
 
 * 2020.06 -- 2021.05: Machine Learning Intern, RealAI
-  * Project: Data Mining Research in RecSys and Finance.
+  * Project: Data Mining Research in User Modeling.
   * Advisor: [(Assistant) Prof. Qiang Liu](https://john-qiangliu.tech/)
   * Results: One publication in WWW 2021; two papers submitted to ICDM 2021 and WWW 2022.
 
@@ -41,8 +41,8 @@ Work experience
   
 Skills
 ======
-* Python, Java, MATLAB, C++, JavaScript, Linux, Spark, Hadoop, HTML, etc.
-* Graph networks, Transformers, Reinforcement Learning, Bayes Network, etc.
+* Python, Java, MATLAB, C++, JavaScript, Linux, Spark, HTML, etc.
+* Graph networks, Transformers, Reinforcement Learning, PDEs, etc.
 
 Awards
 ======

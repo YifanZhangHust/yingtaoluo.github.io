@@ -34,11 +34,6 @@ Work Experiences
 
 * 2018.05 -- 2019.06: Research Assistant, Interdisciplinary Research Center, Huazhong U of Sci and Tech
   * Project: Machine learning and scientific discovery.
-  
-Skills
-======
-* Python, Java, MATLAB, C++, JavaScript, Linux, Spark, HTML, etc.
-* Graph networks, Transformers, Reinforcement Learning, PDEs, etc.
 
 Awards
 ======

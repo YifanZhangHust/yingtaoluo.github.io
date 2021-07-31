@@ -22,7 +22,7 @@ Qiang Liu, __Yingtao Luo__, Jun Zhu
 
 * Any equation is a forest: Symbolic genetic algorithm for discovering open-form partial differential equations.  
 Yuntian Chen, __Yingtao Luo__, Qiang Liu, Hao Xu, Dongxiao Zhang  
-*Submitted to Proceedings of the National Academy of the Sciences of the United States of America (__PNAS__)*. [[code](https://github.com/yingtaoluo/PDE-Discovery-with-Evolutionary-Tree-Search)]  [[arXiv](https://arxiv.org/abs/2106.11927)] 
+*ArXiv*. [[code](https://github.com/yingtaoluo/PDE-Discovery-with-Evolutionary-Tree-Search)]  [[arXiv](https://arxiv.org/abs/2106.11927)] 
 
 * SLGT: Self-adaptive Local-global aware Transformer for Sequential Recommendation.  
 Juyong Jiang\*, __Yingtao Luo\*__, Jae Boum Kim, Qiang Liu, Peiyan Zhang, Yueqi Xie, Sunghun Kim.  

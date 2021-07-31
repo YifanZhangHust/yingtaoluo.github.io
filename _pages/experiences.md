@@ -30,7 +30,7 @@ Work Experiences
   * Project: [PaddlePaddle](https://github.com/PaddlePaddle) development and testing.
 
 * 2019.08 -- 2020.01: Machine Learning Software Engineer, ZSFAB
-  * Project: Software development and machine learning design of medical devices.
+  * Project: Machine learning design of healthcare devices.
 
 * 2018.05 -- 2019.06: Research Assistant, Interdisciplinary Research Center, Huazhong U of Sci and Tech
   * Project: Machine learning and scientific discovery.

@@ -19,7 +19,7 @@ Work experience
   * Project: PDE learning in finance and [Qlib](https://github.com/microsoft/qlib) Development.
 
 * 2020.06 -- 2021.05: Research Assistant, Tsinghua-Bosch Joint Lab, Tsinghua University 
-  * Project: Machine Learning PDE Discovery.
+  * Project: Machine learning PDE discovery.
   * Advisor: [(Full) Prof. Jun Zhu](http://ml.cs.tsinghua.edu.cn/~jun/index.shtml)
 
 * 2020.06 -- 2021.05: Machine Learning Intern, RealAI

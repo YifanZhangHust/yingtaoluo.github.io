@@ -27,6 +27,4 @@ I am applying for Ph.D. program in 2022. Please feel free to contact me.
   
 ## Some Fun Facts
 The homophony of my name in Chinese means "cherry" in English. :}  
-As a young student, I humbly declined invitations to make me a conference reviewer.  
-My research results are transformed into patents to create value in the real world!  
 Thanks to industrial partners, I pay all my tuition by scholarships, internships and patents.

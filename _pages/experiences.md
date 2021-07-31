@@ -18,8 +18,8 @@ Work experience
 * Recent: Research Intern, Machine Learning Group, Microsoft Research Asia 
   * Project: PDE learning in finance and [Qlib](https://github.com/microsoft/qlib) Development.
 
-* 2020.06 -- 2021.05: Research Assistant, Computer Science TSAIL Group, Tsinghua University 
-  * Project: Machine Learning PDE Discovery. (with Tsinghua-Bosch Joint Lab)
+* 2020.06 -- 2021.05: Research Assistant, Tsinghua-Bosch Joint Lab, Tsinghua University 
+  * Project: Machine Learning PDE Discovery.
   * Advisor: [(Full) Prof. Jun Zhu](http://ml.cs.tsinghua.edu.cn/~jun/index.shtml)
 
 * 2020.06 -- 2021.05: Machine Learning Intern, RealAI

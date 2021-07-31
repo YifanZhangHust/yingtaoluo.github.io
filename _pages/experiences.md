@@ -13,7 +13,7 @@ Education
 * M.S. in Computer Science, University of Washington, 2020-2022 (GPA:3.8/4.0)
 * Dual B.S. in Applied Physics and Computer Science, Huazhong U of Sci and Tech, 2015-2019 (CS GPA:91/100, 4.0/4.0)
 
-Work experience
+Work Experience
 ======
 * Recent: Research Intern, Machine Learning Group, Microsoft Research Asia 
   * Project: PDE learning in finance and [Qlib](https://github.com/microsoft/qlib) development.

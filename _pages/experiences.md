@@ -51,7 +51,6 @@ Academic Services
   * IEEE Trans. Neural Netw. Learn. Syst.
 * Conference PC Member:
   * ICLR 2022
-  * AAAI 2021
   
 Language
 ======

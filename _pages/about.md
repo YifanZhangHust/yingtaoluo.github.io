@@ -15,7 +15,8 @@ Data Mining, Causal Inference, Machine Learning, Text Mining, with applications 
 Healthcare, Recommeder Systems, Natural Language Processing and Physical Dynamics.
 
 ## Skills
-Python, Spark, Matlab, C++, Linux, Latex, HTML, etc.
+* Python, Java, MATLAB, C++, JavaScript, Linux, Spark, HTML, etc.
+* Graph networks, Transformers, Reinforcement Learning, PDEs, etc.
 
 ## Recent Events
 - Working on a project involving causal inference for healthcare data mining.  

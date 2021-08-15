@@ -20,6 +20,7 @@ Healthcare, Recommeder Systems, Natural Language Processing and Physical Dynamic
 
 ## Recent Events
 - Working on a project involving causal inference for healthcare data mining.  
+- Working on a project involving causal inference for recommender systems.  
 - Working on a project involving discovering PDE model for financial stock market.
 
 ## Collaborations

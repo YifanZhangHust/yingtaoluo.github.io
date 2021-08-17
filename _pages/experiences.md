@@ -50,6 +50,7 @@ Academic Services
   * Journal of Chemical Theory and Computation
   * IEEE Trans. Neural Netw. Learn. Syst.
 * Conference PC Member:
+  * AAAI 2022
   * ICLR 2022
   
 Language

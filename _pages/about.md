@@ -20,8 +20,7 @@ Healthcare, Web Analysis, Recommeder Systems, NLP, Finance, Physics, etc.
 
 ## Recent Events
 - Working on a project involving causal inference for healthcare data mining.  
-- Working on a project involving causal inference for recommender systems.  
-- Working on a project involving discovering PDE model for financial stock market.
+- Working on a project involving discovering PDE for financial data mining.
 
 ## Collaborations
 Please drop me an outline of research proposal. If there is a match of interest, we can chat.  

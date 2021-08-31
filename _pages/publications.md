@@ -28,7 +28,7 @@ Yuntian Chen, __Yingtao Luo__, Qiang Liu, Hao Xu, Dongxiao Zhang
 __Yingtao Luo__, Qiang Liu, Yuntian Chen, Wenbo Hu, Jun Zhu.  
 *ArXiv*. [[arXiv](https://arxiv.org/abs/2106.01078)]
 
-* BiCAT: Bi-Chronological Augmentation of Transformer for SequentialRecommendation.  
+* BiCAT: Bi-Chronological Augmentation of Transformer for Sequential Recommendation.  
 Juyong Jiang\*, __Yingtao Luo\*__, Jae Boum Kim, Sunghun Kim.  
 *Submitted*.
 

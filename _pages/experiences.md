@@ -23,7 +23,7 @@ Work Experiences
   * Advisor: [(Full) Prof. Jun Zhu](http://ml.cs.tsinghua.edu.cn/~jun/index.shtml)
 
 * 2020.06 -- 2021.05: Machine Learning Intern, RealAI
-  * Project: Data mining research in user modeling.
+  * Project: Web mining and user modeling.
   * Advisor: [(Assistant) Prof. Qiang Liu](https://john-qiangliu.tech/)
 
 * 2020.03 -- 2020.05: Machine Learning Intern, Machine Learning Group, Baidu Research

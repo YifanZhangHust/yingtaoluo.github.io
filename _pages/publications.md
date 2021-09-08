@@ -33,7 +33,7 @@ Juyong Jiang\*, __Yingtao Luo\*__, Jae Boum Kim, Sunghun Kim.
 *Submitted*.
 
 * SLGT: Self-adaptive Local-global aware Transformer for Sequential Recommendation.  
-Juyong Jiang\*, __Yingtao Luo\*__, Jae Boum Kim, Qiang Liu, Peiyan Zhang, Yueqi Xie, Sunghun Kim.  
+Juyong Jiang\*, __Yingtao Luo\*__, Jae Boum Kim, Sunghun Kim.  
 *Submitted*.
 
 * STAN: Spatio-Temporal Attention Network for the Next Location Recommendation.  

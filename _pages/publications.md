@@ -28,11 +28,11 @@ Yuntian Chen, __Yingtao Luo__, Qiang Liu, Hao Xu, Dongxiao Zhang
 __Yingtao Luo__, Qiang Liu, Yuntian Chen, Wenbo Hu, Jun Zhu.  
 *ArXiv*. [[arXiv](https://arxiv.org/abs/2106.01078)]
 
-* BiCAT: Bi-Chronological Augmentation of Transformer for Sequential Recommendation.  
+* (An augmentation & pretraining technique of transformer in recommender system).  
 Juyong Jiang\*, __Yingtao Luo\*__, Jae Boum Kim, Sunghun Kim.  
 *Submitted*.
 
-* SLGT: Self-adaptive Local-global aware Transformer for Sequential Recommendation.  
+* (An adaptive personalized transformer model in recommender system).  
 Juyong Jiang\*, __Yingtao Luo\*__, Jae Boum Kim, Sunghun Kim.  
 *Submitted*.
 

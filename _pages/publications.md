@@ -16,7 +16,7 @@ author_profile: true
   Some preprints are not listed.
   
 ## 2021
-* RMT-Net: Reject-aware Multi-Task Network for Reject Inference in Financial Credit Scoring.  
+* (A Reject Inference model for Financial Credit Scoring).  
 Qiang Liu, __Yingtao Luo__, Jun Zhu  
 *Submitted*.
 

@@ -17,7 +17,7 @@ author_profile: true
   
 ## 2021
 * (A Reject Inference model for Financial Credit Scoring).  
-Qiang Liu, __Yingtao Luo__, Shu Wu, Zhen Zhang, Liang Wang.
+Qiang Liu, __Yingtao Luo__, Shu Wu, Zhen Zhang, Liang Wang.  
 *Submitted*.
 
 * Any equation is a forest: Symbolic genetic algorithm for discovering open-form partial differential equations.  

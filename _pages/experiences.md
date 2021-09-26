@@ -50,6 +50,7 @@ Academic Services
   * Journal of Chemical Theory and Computation
   * IEEE Trans. Neural Netw. Learn. Syst.
 * Conference PC Member:
+  * NeurIPS 2021 ML4PS
   * AAAI 2022
   * ICLR 2022
   

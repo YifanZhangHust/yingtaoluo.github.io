@@ -24,7 +24,6 @@ Healthcare, Web Analysis, Recommeder Systems, NLP, Finance, Physics, etc.
 
 ## Collaborations
 Please drop me an outline of research proposal. If there is a match of interest, we can chat.  
-I am applying for Ph.D. program in 2022. Please feel free to contact me.
   
 ## Some Fun Facts
 The homophony of my name in Chinese means "cherry" in English. :}  

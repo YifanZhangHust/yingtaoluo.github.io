@@ -19,7 +19,7 @@ Healthcare, Web Analysis, Recommeder Systems, NLP, Finance, Physics, etc.
 * Graph networks, Transformers, Reinforcement Learning, PDEs, etc.
 
 ## Recent Events
-- Working on a project involving causal inference for healthcare data mining.  
+- Working on a project involving healthcare diagnosis report generation.  
 - Working on a project involving discovering PDE for financial data mining.
 
 ## Collaborations

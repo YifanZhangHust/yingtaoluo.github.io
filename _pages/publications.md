@@ -13,7 +13,7 @@ author_profile: true
 
 [Google Scholar](https://scholar.google.com/citations?user=g_MmNEoAAAAJ) (\* Equal Contribution)  
   
-The name of some manuscripts are hidden before official acceptance, following the double blind submission rule.
+The titles of some papers are hidden before official acceptance, following the double blind submission rule.
   
 ## 2021
 * (A Causal Method for Online Healthcare).  

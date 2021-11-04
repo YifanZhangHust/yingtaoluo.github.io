@@ -15,14 +15,26 @@ author_profile: true
   
 The titles of some papers are hidden before official acceptance, following the double blind submission rule.
   
-## 2021
-* (A Causal Method for Online Healthcare).  
+## Data Mining
+
+* (A Causal Method for Healthcare Prediction).  
 __Yingtao Luo__, Qiang Liu.  
 *Submitted*.
 
 * (A Reject Inference model for Financial Credit Scoring).  
 Qiang Liu, __Yingtao Luo__, Shu Wu, Zhen Zhang, Liang Wang.  
 *Under review of IEEE Transactions on Knowledge and Data Engineering*.
+
+* (An augmentation & pretraining technique of transformer in recommender system).  
+Juyong Jiang\*, __Yingtao Luo\*__, Jae Boum Kim, Sunghun Kim.  
+*Submitted*.
+
+* STAN: Spatio-Temporal Attention Network for the Next Location Recommendation.  
+__Yingtao Luo__, Qiang Liu, Zhaocheng Liu.  
+*Published in The Web Conference (__WWW 2021__)*. [[code](https://github.com/yingtaoluo/Spatial-Temporal-Attention-Network-for-POI-Recommendation)]  [[arXiv](https://arxiv.org/abs/2102.04095)]  [[DOI](https://doi.org/10.1145/3442381.3449998)]  [[talk](https://www.youtube.com/watch?v=ajNzESvOvzs)].
+
+## Interpretable Machine Learning
+*Hints: PDE can serve as an interpretable structure in machine learning.*
 
 * Any equation is a forest: Symbolic genetic algorithm for discovering open-form partial differential equations.  
 Yuntian Chen, __Yingtao Luo__, Qiang Liu, Hao Xu, Dongxiao Zhang  
@@ -32,19 +44,7 @@ Yuntian Chen, __Yingtao Luo__, Qiang Liu, Hao Xu, Dongxiao Zhang
 __Yingtao Luo__, Qiang Liu, Yuntian Chen, Wenbo Hu, Jun Zhu.  
 *ArXiv*. [[arXiv](https://arxiv.org/abs/2106.01078)]
 
-* (An augmentation & pretraining technique of transformer in recommender system).  
-Juyong Jiang\*, __Yingtao Luo\*__, Jae Boum Kim, Sunghun Kim.  
-*Submitted*.
-
-* (An adaptive personalized transformer model in recommender system).  
-Juyong Jiang\*, __Yingtao Luo\*__, Jae Boum Kim, Sunghun Kim.  
-*Submitted*.
-
-* STAN: Spatio-Temporal Attention Network for the Next Location Recommendation.  
-__Yingtao Luo__, Qiang Liu, Zhaocheng Liu.  
-*Published in The Web Conference (__WWW 2021__)*. [[code](https://github.com/yingtaoluo/Spatial-Temporal-Attention-Network-for-POI-Recommendation)]  [[arXiv](https://arxiv.org/abs/2102.04095)]  [[DOI](https://doi.org/10.1145/3442381.3449998)]  [[talk](https://www.youtube.com/watch?v=ajNzESvOvzs)].
-
-## 2020
+## Interdisciplinary Applications
 * Probability-Density-Based Deep Learning Paradigm for the Fuzzy Design of Functional Metastructures.  
 __Ying-Tao Luo__, Peng-Qi Li, Dong-Ting Li, Yu-Gui Peng, Zhi-Guo Geng,  
 Shu-Huan Xie, Yong Li, Andrea Alù, Jie Zhu, Xue-Feng Zhu.  

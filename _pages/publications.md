@@ -22,15 +22,15 @@ __Yingtao Luo__, Qiang Liu.
 
 * (A Reject Inference model for Financial Credit Scoring).  
 Qiang Liu, __Yingtao Luo__, Shu Wu, Zhen Zhang, Liang Wang.  
-*Submitted*.
+*Under review of IEEE Transactions on Knowledge and Data Engineering*.
 
 * Any equation is a forest: Symbolic genetic algorithm for discovering open-form partial differential equations.  
 Yuntian Chen, __Yingtao Luo__, Qiang Liu, Hao Xu, Dongxiao Zhang  
-*ArXiv* & *Submitted*. [[code](https://github.com/yingtaoluo/PDE-Discovery-with-Evolutionary-Tree-Search)]  [[arXiv](https://arxiv.org/abs/2106.11927)] 
+*Under review of Physical Review Research*. [[code](https://github.com/yingtaoluo/PDE-Discovery-with-Evolutionary-Tree-Search)]  [[arXiv](https://arxiv.org/abs/2106.11927)] 
   
 * KO-PDE: Kernel Optimized Discovery of Partial Differential Equations with Varying Coefficients.  
 __Yingtao Luo__, Qiang Liu, Yuntian Chen, Wenbo Hu, Jun Zhu.  
-*ArXiv* & *Submitted*. [[arXiv](https://arxiv.org/abs/2106.01078)]
+*ArXiv*. [[arXiv](https://arxiv.org/abs/2106.01078)]
 
 * (An augmentation & pretraining technique of transformer in recommender system).  
 Juyong Jiang\*, __Yingtao Luo\*__, Jae Boum Kim, Sunghun Kim.  

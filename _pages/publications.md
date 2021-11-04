@@ -42,9 +42,9 @@ Yuntian Chen, __Yingtao Luo__, Qiang Liu, Hao Xu, Dongxiao Zhang
   
 * KO-PDE: Kernel Optimized Discovery of Partial Differential Equations with Varying Coefficients.  
 __Yingtao Luo__, Qiang Liu, Yuntian Chen, Wenbo Hu, Jun Zhu.  
-*ArXiv*. [[arXiv](https://arxiv.org/abs/2106.01078)]
+*ArXiv & Prepare to submit*. [[arXiv](https://arxiv.org/abs/2106.01078)]
 
-## Interdisciplinary Applications (Undergrad works)
+## Interdisciplinary Applications (Undergraduate Works)
 * Probability-Density-Based Deep Learning Paradigm for the Fuzzy Design of Functional Metastructures.  
 __Ying-Tao Luo__, Peng-Qi Li, Dong-Ting Li, Yu-Gui Peng, Zhi-Guo Geng,  
 Shu-Huan Xie, Yong Li, Andrea Alù, Jie Zhu, Xue-Feng Zhu.  

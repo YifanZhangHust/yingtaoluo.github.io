@@ -40,11 +40,13 @@ __Yingtao Luo__, Qiang Liu, Zhaocheng Liu.
 Yuntian Chen, __Yingtao Luo__, Qiang Liu, Hao Xu, Dongxiao Zhang  
 *Under review of Physical Review Research*. [[code](https://github.com/yingtaoluo/PDE-Discovery-with-Evolutionary-Tree-Search)]  [[arXiv](https://arxiv.org/abs/2106.11927)] 
   
-* KO-PDE: Kernel Optimized Discovery of Partial Differential Equations with Varying Coefficients.  
+* Incorporating Laws of Physics in Neural PDE Discovery: Learning of Parametric Partial Differential Equations from Scarce and Noisy Data.  
 __Yingtao Luo__, Qiang Liu, Yuntian Chen, Wenbo Hu, Jun Zhu.  
-*ArXiv & Prepare to submit*. [[arXiv](https://arxiv.org/abs/2106.01078)]
+*Prepare to submit*. [[arXiv](https://arxiv.org/abs/2106.01078)]
 
-## Interdisciplinary Applications (Undergraduate Works)
+## Interdisciplinary Applications
+*Hints: These are undergraduate works.*
+
 * Probability-Density-Based Deep Learning Paradigm for the Fuzzy Design of Functional Metastructures.  
 __Ying-Tao Luo__, Peng-Qi Li, Dong-Ting Li, Yu-Gui Peng, Zhi-Guo Geng,  
 Shu-Huan Xie, Yong Li, Andrea Alù, Jie Zhu, Xue-Feng Zhu.  

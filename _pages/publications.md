@@ -16,7 +16,6 @@ author_profile: true
 The titles of some papers are hidden before official acceptance, following the double blind submission rule.
   
 ## Data Mining
-
 * (A Causal Method for Healthcare Prediction).  
 __Yingtao Luo__, Qiang Liu.  
 *Submitted*.

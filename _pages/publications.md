@@ -34,7 +34,7 @@ __Yingtao Luo__, Qiang Liu, Zhaocheng Liu.
 *Published in The Web Conference (__WWW 2021__)*. [[code](https://github.com/yingtaoluo/Spatial-Temporal-Attention-Network-for-POI-Recommendation)]  [[arXiv](https://arxiv.org/abs/2102.04095)]  [[DOI](https://doi.org/10.1145/3442381.3449998)]  [[talk](https://www.youtube.com/watch?v=ajNzESvOvzs)].
 
 ## Interpretable Machine Learning
-*Hints: PDE can serve as an interpretable structure in machine learning.*
+*Hints: PDE can serve as an interpretable structure in machine learning & applications.*
 
 * Any equation is a forest: Symbolic genetic algorithm for discovering open-form partial differential equations.  
 Yuntian Chen, __Yingtao Luo__, Qiang Liu, Hao Xu, Dongxiao Zhang  

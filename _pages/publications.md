@@ -40,7 +40,7 @@ __Yingtao Luo__, Qiang Liu, Zhaocheng Liu.
 Yuntian Chen, __Yingtao Luo__, Qiang Liu, Hao Xu, Dongxiao Zhang  
 *Under review of Physical Review Research*. [[code](https://github.com/yingtaoluo/PDE-Discovery-with-Evolutionary-Tree-Search)]  [[arXiv](https://arxiv.org/abs/2106.11927)] 
   
-* Incorporating Laws of Physics in Neural PDE Discovery: Learning of Parametric Partial Differential Equations from Scarce and Noisy Data.  
+* Incorporating laws of physics in neural PDE discovery: Learning Parametric Partial Differential Equations from Scarce and Noisy Data.  
 __Yingtao Luo__, Qiang Liu, Yuntian Chen, Wenbo Hu, Jun Zhu.  
 *Prepare to submit*. [[arXiv](https://arxiv.org/abs/2106.01078)]
 

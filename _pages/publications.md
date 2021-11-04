@@ -41,7 +41,7 @@ __Yingtao Luo__, Qiang Liu, Zhaocheng Liu.
 Yuntian Chen, __Yingtao Luo__, Qiang Liu, Hao Xu, Dongxiao Zhang  
 *Under review of Physical Review Research*. [[code](https://github.com/yingtaoluo/PDE-Discovery-with-Evolutionary-Tree-Search)]  [[arXiv](https://arxiv.org/abs/2106.11927)] 
   
-* Learning Laws of Conversation for the Discovery of Parametric Partial Differential Equations from Scarce and Noisy Data.  
+* Learning Laws of Conservation for the Discovery of Parametric Partial Differential Equations from Scarce and Noisy Data.  
 __Yingtao Luo__, Qiang Liu, Yuntian Chen, Wenbo Hu, Jun Zhu.  
 *Prepare to submit*. [[arXiv](https://arxiv.org/abs/2106.01078)]
 

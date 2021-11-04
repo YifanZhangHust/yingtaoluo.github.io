@@ -20,7 +20,7 @@ Healthcare, Web Analysis, Recommeder Systems, NLP, Finance, etc.
 
 ## Recent Events
 - Working on a project involving healthcare diagnosis report generation.  
-- Working on a project involving discovering PDE for financial data mining.
+- Working on a project involving causal learning for recommender systems.
 
 ## Collaborations
 Please drop me an outline of research proposal. If there is a match of interest, we can chat.  

@@ -47,7 +47,6 @@ Awards
 Academic Services
 ======
 * Journal Reviewer:
-  * Journal of Chemical Theory and Computation
   * IEEE Trans. Neural Netw. Learn. Syst.
 * Conference PC Member:
   * NeurIPS 2021 ML4PS

@@ -19,7 +19,7 @@ Healthcare, Web Analysis, Recommeder Systems, NLP, Finance, etc.
 * Graph networks, Transformers, Reinforcement Learning, PDEs, etc.
 
 ## Recent Events
-- Codes of our published "STAN: Spatio-Temporal Attention Network for Next Location Recommendation" is listed in [LibCity](https://github.com/yingtaoluo/Bigscity-LibCity).
+- Codes of our published "STAN: Spatio-Temporal Attention Network for Next Location Recommendation" is listed in [LibCity](https://github.com/yingtaoluo/Bigscity-LibCity), a selective Open Library for traffic prediction.
 - Working on a project involving healthcare diagnosis report generation.  
 - Working on a project involving causal learning for recommender systems.
 

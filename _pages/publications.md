@@ -13,7 +13,8 @@ author_profile: true
 
 [Google Scholar](https://scholar.google.com/citations?user=g_MmNEoAAAAJ) (\* Equal Contribution)  
   
-The titles of some papers are hidden before official acceptance, following the double blind submission rule.
+The titles of some papers are hidden before official acceptance, following the double blind submission rule.  
+The links "paper" may contain early version preprints in case it breaks double blind rule.
   
 ## Data Mining
 * (A Causal Method for Healthcare Prediction).  

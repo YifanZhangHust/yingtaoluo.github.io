@@ -25,8 +25,8 @@ Qiang Liu, __Yingtao Luo__, Shu Wu, Zhen Zhang, Liang Wang.
 *Under review of IEEE Transactions on Knowledge and Data Engineering*.
 
 * (An augmentation & pretraining technique of transformer in recommender system).  
-Juyong Jiang\*, __Yingtao Luo\*__, Jae Boum Kim, Sunghun Kim.  
-*Submitted*.
+Juyong Jiang\*, __Yingtao Luo\*__, Jae Boum Kim, Kai Zhang, Sunghun Kim. [[paper](https://github.com/yingtaoluo/yingtaoluo.github.io/blob/master/_publications/BICAT.pdf)]   
+*Submitted*. 
 
 * STAN: Spatio-Temporal Attention Network for the Next Location Recommendation.  
 __Yingtao Luo__, Qiang Liu, Zhaocheng Liu.  

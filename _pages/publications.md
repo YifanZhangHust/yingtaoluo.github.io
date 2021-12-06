@@ -17,7 +17,7 @@ The titles of some papers are hidden before official acceptance, following the d
   
 ## Data Mining
 * (A Causal Method for Healthcare Prediction).  
-__Yingtao Luo__, Qiang Liu. [[paper](https://github.com/yingtaoluo/yingtaoluo.github.io/)]
+__Yingtao Luo__, Qiang Liu. [[paper](https://github.com/yingtaoluo/yingtaoluo.github.io/blob/master/_publications/Causal_Healthcare_Embedding.pdf)]  
 *Submitted*.
 
 * (A Reject Inference model for Financial Credit Scoring).  

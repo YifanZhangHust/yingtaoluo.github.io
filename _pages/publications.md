@@ -23,7 +23,7 @@ __Yingtao Luo__, Qiang Liu. [[paper](https://github.com/yingtaoluo/yingtaoluo.gi
 
 * (A Reject Inference model for Financial Credit Scoring).  
 Qiang Liu, __Yingtao Luo__, Shu Wu, Zhen Zhang, Liang Wang.  
-*Under review of IEEE Transactions on Knowledge and Data Engineering*.
+*Under review of IEEE Transactions on Knowledge and Data Engineering*. [[paper](https://github.com/yingtaoluo/yingtaoluo.github.io/blob/master/_publications/rmt.pdf)]  
 
 * (An augmentation & pretraining technique of transformer in recommender system).  
 Juyong Jiang\*, __Yingtao Luo\*__, Jae Boum Kim, Kai Zhang, Sunghun Kim. [[paper](https://github.com/yingtaoluo/yingtaoluo.github.io/blob/master/_publications/BICAT.pdf)]   

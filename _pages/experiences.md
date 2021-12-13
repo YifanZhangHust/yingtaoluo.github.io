@@ -16,10 +16,10 @@ Education
 Work Experiences
 ======
 * Recent: Research Intern, Machine Learning Group, Microsoft Research Asia 
-  * Project: PDE learning, Causal Inference and [Qlib](https://github.com/microsoft/qlib) development.
+  * Project: PDE learning, ODE Graph, Causal Inference and [Qlib](https://github.com/microsoft/qlib) development.
 
 * 2020.06 -- 2021.05: Research Assistant, Tsinghua-Bosch Joint Lab, Tsinghua University 
-  * Project: Machine learning PDE discovery.
+  * Project: Machine learning PDE.
   * Advisor: [(Full) Prof. Jun Zhu](http://ml.cs.tsinghua.edu.cn/~jun/index.shtml)
 
 * 2020.06 -- 2021.05: Machine Learning Intern, RealAI

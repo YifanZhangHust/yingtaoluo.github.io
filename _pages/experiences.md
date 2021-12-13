@@ -17,14 +17,15 @@ Work Experiences
 ======
 * Recent: Research Intern, Machine Learning Group, Microsoft Research Asia 
   * Project: PDE learning, ODE Graph, Causal Inference and [Qlib](https://github.com/microsoft/qlib) development.
+  * Advisor: [Dr. Chang Xu](https://scholar.google.com.hk/citations?user=uOCiy2gAAAAJ), [Dr. Jiang Bian](https://sites.google.com/view/jiangbian) and [Dr. Tie-Yan Liu](https://www.microsoft.com/en-us/research/people/tyliu/)
 
 * 2020.06 -- 2021.05: Research Assistant, Tsinghua-Bosch Joint Lab, Tsinghua University 
   * Project: Machine learning PDE.
-  * Advisor: [(Full) Prof. Jun Zhu](http://ml.cs.tsinghua.edu.cn/~jun/index.shtml)
+  * Advisor: [Prof. Jun Zhu](http://ml.cs.tsinghua.edu.cn/~jun/index.shtml)
 
 * 2020.06 -- 2021.05: Machine Learning Intern, RealAI
   * Project: Web mining and user modeling.
-  * Advisor: [(Assistant) Prof. Qiang Liu](https://john-qiangliu.tech/)
+  * Advisor: [Prof. Qiang Liu](https://john-qiangliu.tech/)
 
 * 2020.03 -- 2020.05: Machine Learning Intern, Machine Learning Group, Baidu Research
   * Project: [PaddlePaddle](https://github.com/PaddlePaddle) development and testing.

@@ -36,7 +36,9 @@ __Yingtao Luo__, Qiang Liu, Zhaocheng Liu.
 ## Interpretable Machine Learning
 *Hints: PDE can serve as an interpretable structure in machine learning & applications.*
 
-* Interpretable Neural ODE for Generalizable Financial Modeling.  
+* Learning universal differential operators for interpretable sequential modeling.  
+__Yingtao Luo__, Chang Xu, Yang Liu, Jiang Bian, Tie-Yan Liu
+*Prepare to submit*.
 
 * Any equation is a forest: Symbolic genetic algorithm for discovering open-form partial differential equations.  
 Yuntian Chen, __Yingtao Luo__, Qiang Liu, Hao Xu, Dongxiao Zhang  

@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-Yingtao Luo is a Graduate MS Student in Computer Science at the University of Washington. He is a professional member of ACM. His research interests include data mining, machine learning, causal inference, etc. Please feel free to contact him at yl3851@uw.edu.
+## Biography
+My name is Yingtao Luo (Ying-Tao Luo). I am a Graduate MS Student in Computer Science at the University of Washington. I am a professional member of ACM. My research interests include data mining, machine learning, causal inference, etc. I am fortunate to work as full-time intern with Prof. Jun Zhu at Tsinghua University and Prof. Tie-Yan Liu at Microsoft Research during the COVID-19 pandamic. Please feel free to contact me at yl3851@uw.edu.
 
 ## Research Interest
 Data Mining, Causal Inference, Interpretable Learning with applications in:  

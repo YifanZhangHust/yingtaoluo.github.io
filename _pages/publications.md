@@ -14,7 +14,6 @@ author_profile: true
 [Google Scholar](https://scholar.google.com/citations?user=g_MmNEoAAAAJ) (\* Equal Contribution)  
   
 The titles of some papers are hidden before official acceptance, following the double blind submission rule.  
-The links "paper" may contain early version preprints in case it breaks double blind rule.
   
 ## Data Mining
 * (A Causal Method for Healthcare Prediction).  
@@ -42,11 +41,11 @@ __Yingtao Luo__, Chang Xu, Yang Liu, Jiang Bian, Tie-Yan Liu.
 
 * Any equation is a forest: Symbolic genetic algorithm for discovering open-form partial differential equations.  
 Yuntian Chen, __Yingtao Luo__, Qiang Liu, Hao Xu, Dongxiao Zhang.  
-*Under review of Physical Review Research*. [[code](https://github.com/yingtaoluo/PDE-Discovery-with-Evolutionary-Tree-Search)]  [[arXiv](https://arxiv.org/abs/2106.11927)] 
+*Under review of Physical Review Research*. [[code](https://github.com/yingtaoluo/PDE-Discovery-with-Evolutionary-Tree-Search)]  [[minor revision](https://github.com/yingtaoluo/yingtaoluo.github.io/blob/master/_publications/review_rmt)]  [[arXiv](https://arxiv.org/abs/2106.11927)] 
   
 * Learning Laws of Physics: Discovery of Partial Differential Equations from Scarce and Noisy Data.  
 __Yingtao Luo__, Qiang Liu, Yuntian Chen, Wenbo Hu, Jun Zhu.  
-*Prepare to submit*. [[arXiv](https://arxiv.org/abs/2106.01078)]
+*Submitted to Nature Communications*. [[arXiv](https://arxiv.org/abs/2106.01078)]
 
 ## Interdisciplinary Applications
 *Hints: These are undergraduate works.*

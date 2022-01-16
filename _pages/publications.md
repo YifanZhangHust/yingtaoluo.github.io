@@ -26,7 +26,7 @@ Qiang Liu, __Yingtao Luo__, Shu Wu, Zhen Zhang, Liang Wang.
 
 * Sequential Recommendation with Bidirectional Chronological Augmentation of Transformer.  
 Juyong Jiang\*, __Yingtao Luo\*__, Jae Boum Kim, Kai Zhang, Sunghun Kim. [[arXiv](https://arxiv.org/pdf/2112.06460.pdf)]   
-*Submitted*. 
+*Submitted to IEEE Transactions on Knowledge and Data Engineering*. 
 
 * STAN: Spatio-Temporal Attention Network for the Next Location Recommendation.  
 __Yingtao Luo__, Qiang Liu, Zhaocheng Liu.  

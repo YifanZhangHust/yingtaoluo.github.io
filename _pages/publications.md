@@ -22,7 +22,7 @@ __Yingtao Luo__, Qiang Liu. [[paper](https://github.com/yingtaoluo/yingtaoluo.gi
 
 * (A Reject Inference model for Financial Credit Scoring).  
 Qiang Liu, __Yingtao Luo__, Shu Wu, Zhen Zhang, Liang Wang.  
-*Under review of IEEE Transactions on Knowledge and Data Engineering*. [[paper](https://github.com/yingtaoluo/yingtaoluo.github.io/blob/master/_publications/rmt.pdf)]  [[minor revision](https://github.com/yingtaoluo/yingtaoluo.github.io/blob/master/_publications/review_rmt)]
+*Under review of IEEE Transactions on Knowledge and Data Engineering*. [[paper](https://github.com/yingtaoluo/yingtaoluo.github.io/blob/master/_publications/rmt.pdf)]  [[minor revision](https://github.com/yingtaoluo/yingtaoluo.github.io/blob/master/_publications/review_rmt.md)]
 
 * Sequential Recommendation with Bidirectional Chronological Augmentation of Transformer.  
 Juyong Jiang\*, __Yingtao Luo\*__, Jae Boum Kim, Kai Zhang, Sunghun Kim. [[arXiv](https://arxiv.org/pdf/2112.06460.pdf)]   
@@ -41,7 +41,7 @@ __Yingtao Luo__, Chang Xu, Yang Liu, Jiang Bian, Tie-Yan Liu.
 
 * Any equation is a forest: Symbolic genetic algorithm for discovering open-form partial differential equations.  
 Yuntian Chen, __Yingtao Luo__, Qiang Liu, Hao Xu, Dongxiao Zhang.  
-*Under review of Physical Review Research*. [[code](https://github.com/yingtaoluo/PDE-Discovery-with-Evolutionary-Tree-Search)]  [[minor revision](https://github.com/yingtaoluo/yingtaoluo.github.io/blob/master/_publications/review_sga)]  [[arXiv](https://arxiv.org/abs/2106.11927)] 
+*Under review of Physical Review Research*. [[code](https://github.com/yingtaoluo/PDE-Discovery-with-Evolutionary-Tree-Search)]  [[minor revision](https://github.com/yingtaoluo/yingtaoluo.github.io/blob/master/_publications/review_sga.md)]  [[arXiv](https://arxiv.org/abs/2106.11927)] 
   
 * Learning Laws of Physics: Discovery of Partial Differential Equations from Scarce and Noisy Data.  
 __Yingtao Luo__, Qiang Liu, Yuntian Chen, Wenbo Hu, Jun Zhu.  

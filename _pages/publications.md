@@ -18,7 +18,7 @@ The titles of some papers are hidden before official acceptance, following the d
 ## Data Mining
 * (A Causal Method for Healthcare Prediction).  
 __Yingtao Luo__, Qiang Liu. [[paper](https://github.com/yingtaoluo/yingtaoluo.github.io/blob/master/_publications/Causal_Healthcare_Embedding.pdf)]  
-*Submitted*.
+*Submitted to KDD 2022*.
 
 * (A Reject Inference model for Financial Credit Scoring).  
 Qiang Liu, __Yingtao Luo__, Shu Wu, Zhen Zhang, Liang Wang.  
@@ -37,7 +37,7 @@ __Yingtao Luo__, Qiang Liu, Zhaocheng Liu.
 
 * Learning universal differential operators for interpretable sequential modeling.  
 __Yingtao Luo__, Chang Xu, Yang Liu, Jiang Bian, Tie-Yan Liu.  
-*Prepare to submit*.
+*Submitted to KDD 2022*.
 
 * Any equation is a forest: Symbolic genetic algorithm for discovering open-form partial differential equations.  
 Yuntian Chen, __Yingtao Luo__, Qiang Liu, Hao Xu, Dongxiao Zhang.  

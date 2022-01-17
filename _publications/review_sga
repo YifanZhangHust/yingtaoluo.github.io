@@ -1,9 +1,11 @@
-In this manuscript, the authors propose a genetic algorithm based on symbolic trees and regression (SGA-PDE) to identify/uncover PDEs from data. Previous approaches are employing sparse
+In this manuscript, the authors propose a genetic algorithm based on symbolic trees and regression (SGA-PDE) to identify/uncover PDEs from data. 
+Previous approaches are employing sparse
 regression based on a dictionary of predefined functions. The success of such approaches depends
 on the dictionary selection, and the function components underlying the dynamics of the data need
 to be part of this dictionary for previously proposed methods to succeed. The current manuscript,
 alleviates this requirement by proposing a genetic algorithm that operates on symbolic trees that
 represent the PDE.
+
 SGA-PDE includes a crossover operator to reorganize different trees together (generating new
 solution candidates), and special mutation and replacement operators to internally change certain
 function terms, introducing new candidate solutions in the tree level. The effectiveness of the
@@ -11,13 +13,14 @@ proposed approach is demonstrated on three standard benchmarks for methods uncov
 (Burgers, KdV, Chafee-Infante), and two additional problems constructed by the authors (PDE
 compound, PDE divide) where previous methods fail and SGA-PDE succeeds.
 The language of the paper is clear. The proposed approach is very interesting and useful. The
-findings are clearly explained, and supported by the results. As the interest in approaches uncovering PDEs from data is raising, the proposed method is an interesting contribution, augmenting
+findings are clearly explained, and supported by the results. As the interest in approaches uncovering PDEs from data is raising, the proposed method is an interesting contribution, augmenting
 the arsenal of tools.
+
 There are two main issues: first the authors do not compare with previous approaches (see comment later) and do not clearly report disadvantages of the proposed approach and the robustness
 to hyperparameters (see comments later). Additional minor issues are included in the comments
 that follow.
 
-1 Comments
+##1 Comments##
 1. The literature review is good, especially with respect to recent works, but some references
 from very early (older) approaches on genetic programming applied for scientific discovery
 would enhance the manuscript, e.g. [1].

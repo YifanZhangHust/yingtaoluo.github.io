@@ -96,6 +96,6 @@ data.”
 SGA-PDE is to find”
 
 ## References
-[1] Maarten Keijzer. Scientific discovery using genetic programming. IMM, Informatik og Matematisk Modellering, Danmarks Tekniske Universitet, 2001.  
+[1] Maarten Keijzer. Scientific discovery using genetic programming. IMM, Informatik og Matematisk Modellering, Danmarks Tekniske Universitet, 2001.  
 [2] A Lozano-Durán and M Bassenne. Towards model discovery with reinforcement learning.  
-[3] Maxime Bassenne and Adrián Lozano-Durán. Computational model discovery with reinforcement learning. arXiv preprint arXiv:2001.00008, 2019.
+[3] Maxime Bassenne and Adrián Lozano-Durán. Computational model discovery with reinforcement learning. arXiv preprint arXiv:2001.00008, 2019.

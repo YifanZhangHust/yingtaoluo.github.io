@@ -25,8 +25,8 @@ that follow.
 from very early (older) approaches on genetic programming applied for scientific discovery
 would enhance the manuscript, e.g. [1].
 
-2. In page 4, the authors state that “Nevertheless, it is difficult to construct a method for effectively calculating the gradient between the loss and the structure of the equation, which
-restricts the application of gradient-based methods and reinforcement learning in PDE discovery.” Reinforcement Learning, however, does not necessarily require that the loss (reward)
+2. In page 4, the authors state that “Nevertheless, it is difficult to construct a method for effectively calculating the gradient between the loss and the structure of the equation, which
+restricts the application of gradient-based methods and reinforcement learning in PDE discovery.” Reinforcement Learning, however, does not necessarily require that the loss (reward)
 has a gradient. The reward is considered an observation. The gradient is computed on the
 policy, which is something different. There are even completely gradient-free methods for
 RL. There are some very early approaches towards this direction [2, 3] (I am not an author

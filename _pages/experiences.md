@@ -16,7 +16,7 @@ Education
 Work Experiences
 ======
 * Recent: Research Intern, Machine Learning Group, Microsoft Research Asia 
-  * Project: PDE learning, ODE Graph, Causal Inference and [Qlib](https://github.com/microsoft/qlib) development.
+  * Project: PDE learning, ODE Graph, and [Qlib](https://github.com/microsoft/qlib) development.
   * Advisor: [Dr. Chang Xu](https://scholar.google.com.hk/citations?user=uOCiy2gAAAAJ), [Dr. Jiang Bian](https://sites.google.com/view/jiangbian) and [Prof. Tie-Yan Liu](https://www.microsoft.com/en-us/research/people/tyliu/)
 
 * 2020.06 -- 2021.05: Research Assistant, Tsinghua-Bosch Joint Lab, Tsinghua University 
@@ -33,9 +33,6 @@ Work Experiences
 * 2019.08 -- 2020.01: Machine Learning Software Engineer, ZSFAB
   * Project: Machine learning design of healthcare devices.
 
-* 2018.05 -- 2019.06: Research Assistant, Interdisciplinary Research Center, Huazhong U of Sci and Tech
-  * Project: Machine learning and scientific discovery.
-
 Awards
 ======
 * Student Scholarship of TheWebConf, 2021.
@@ -47,8 +44,6 @@ Awards
 
 Academic Services
 ======
-* Journal Reviewer:
-  * IEEE Trans. Neural Netw. Learn. Syst.
 * Conference PC Member:
   * NeurIPS 2021 ML4PS
   * AAAI 2022
@@ -56,6 +51,6 @@ Academic Services
   
 Language
 ======
-* TOEFL 106/120 (Reading 28, Listening 27, Speaking 24, Writing 27)
+* TOEFL 104/120 (Reading 28, Listening 26, Speaking 24, Writing 26)
 * GRE AW 4/6
   

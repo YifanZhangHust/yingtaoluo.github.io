@@ -15,7 +15,7 @@ Education
 
 Work Experiences
 ======
-* Recent: Research Intern, Machine Learning Group, Microsoft Research Asia 
+* 2021.05 -- 2022.03: Research Intern, Machine Learning Group, Microsoft Research Asia 
   * Project: PDE learning, ODE Graph, and [Qlib](https://github.com/microsoft/qlib) development.
   * Advisor: [Dr. Chang Xu](https://scholar.google.com.hk/citations?user=uOCiy2gAAAAJ), [Dr. Jiang Bian](https://sites.google.com/view/jiangbian) and [Prof. Tie-Yan Liu](https://www.microsoft.com/en-us/research/people/tyliu/)
 

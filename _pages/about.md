@@ -19,7 +19,7 @@ Data Mining, Machine Learning, Causal Inference and Applications.
 * Graph networks, Transformers, Reinforcement Learning, PDEs, etc.
 
 ## Recent Events
-- I will moving to Carnegie Mellon University for Ph.D. study, with great gratitute to many people that kindly help me during my Ph.D. application. 
+- I will be moving to Carnegie Mellon University for Ph.D. study. Many thanks to the people who helped me during my PhD application. 
 - Codes of our published "STAN: Spatio-Temporal Attention Network for Next Location Recommendation" is listed in [LibCity](https://github.com/yingtaoluo/Bigscity-LibCity), a selective Open Library for traffic prediction.
 
 ## Collaborations

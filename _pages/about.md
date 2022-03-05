@@ -19,9 +19,8 @@ Data Mining, Machine Learning, Causal Inference and Applications.
 * Graph networks, Transformers, Reinforcement Learning, PDEs, etc.
 
 ## Recent Events
+- I will moving to Carnegie Mellon University for Ph.D. study, with great gratitute to many people that kindly help me during my Ph.D. application. 
 - Codes of our published "STAN: Spatio-Temporal Attention Network for Next Location Recommendation" is listed in [LibCity](https://github.com/yingtaoluo/Bigscity-LibCity), a selective Open Library for traffic prediction.
-- Working on a project involving healthcare diagnosis report generation.  
-- Working on a project involving causal learning for recommender systems.
 
 ## Collaborations
 Please drop me an outline of research proposal. If there is a match of interest, we can chat.  

@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 ## Biography
-My name is Yingtao Luo (Ying-Tao Luo). I am a Graduate MS Student in Computer Science at the University of Washington. I am a professional member of ACM. My research interests include data mining, machine learning, causal inference, etc. I am fortunate to work as full-time intern with Prof. Jun Zhu at Tsinghua University and Prof. Tie-Yan Liu at Microsoft Research during the COVID-19 pandamic. Please feel free to contact me at yl3851@uw.edu (till July 2022) and yingtaol@andrew.cmu.edu (after August 2022). I am actively looking for research internships and collaborations.
+My name is Yingtao Luo (Ying-Tao Luo). I am a Graduate MS Student in Computer Science at the University of Washington. I am a professional member of ACM. My research interests include data mining, machine learning, causal inference, etc. I am fortunate to work as full-time intern with Prof. Jun Zhu at Tsinghua University and Prof. Tie-Yan Liu at Microsoft Research during the COVID-19 pandamic. Please feel free to contact me at yl3851@uw.edu (till July 2022) and yingtaol@andrew.cmu.edu (after August 2022). I am actively looking for research internships, collaborations, and external scholarships.
 
 ## Research Interest
 Data Mining, Machine Learning, Causal Inference and Applications.
@@ -19,7 +19,7 @@ Data Mining, Machine Learning, Causal Inference and Applications.
 * Graph networks, Transformers, Reinforcement Learning, PDEs, etc.
 
 ## Recent Events
-- I will be moving to Carnegie Mellon University for Ph.D. study. Many thanks to the people who helped me during my PhD application. 
+- I will be moving to Carnegie Mellon University for Ph.D. study with presidential fellowship. Many thanks to the people who helped me during my PhD application. 
 - Codes of our published "STAN: Spatio-Temporal Attention Network for Next Location Recommendation" is listed in [LibCity](https://github.com/yingtaoluo/Bigscity-LibCity), a selective Open Library for traffic prediction.
 
 ## Collaborations

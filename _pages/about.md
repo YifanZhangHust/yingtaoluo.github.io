@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 ## Biography
-My name is Yingtao Luo (Ying-Tao Luo). I am a Graduate MS Student in Computer Science at the University of Washington. I am a professional member of ACM. My research interests include data mining, machine learning, causal inference, etc. I am fortunate to work as full-time intern with Prof. Jun Zhu at Tsinghua University and Prof. Tie-Yan Liu at Microsoft Research during the COVID-19 pandamic. Please feel free to contact me at yl3851@uw.edu (till July 2022) and yingtaol@andrew.cmu.edu (after August 2022).
+My name is Yingtao Luo (Ying-Tao Luo). I am a Graduate MS Student in Computer Science at the University of Washington. I am a professional member of ACM. My research interests include data mining, machine learning, causal inference, etc. I am fortunate to work as full-time intern with Prof. Jun Zhu at Tsinghua University and Prof. Tie-Yan Liu at Microsoft Research during the COVID-19 pandamic. Please feel free to contact me at yl3851@uw.edu (till July 2022) and yingtaol@andrew.cmu.edu (after August 2022). I am actively looking for research internships and collaborations.
 
 ## Research Interest
 Data Mining, Machine Learning, Causal Inference and Applications.

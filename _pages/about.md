@@ -9,12 +9,12 @@ redirect_from:
 ---
 
 ## Biography
-My name is Yingtao Luo (Ying-Tao Luo). I am a Graduate MS Student in Computer Science at the University of Washington. I will continue my Graduate Ph.D. Study in Information System (and later if everything goes well, the Joint Degree in Machine Learning and Public Policy affiliated with both Heinz College and Machine Learning Department) at Carnegie Mellon University with the Presidential Fellowship. I am a professional member of ACM. My research interests include data mining, machine learning, causal inference, etc., with applications in business and healthcare.
+My name is Yingtao Luo (Ying-Tao Luo). I am a Graduate MS Student in Computer Science at the University of Washington. I will continue my Graduate Ph.D. Study in Information System (and later if everything goes well, the Joint Degree in Machine Learning and Public Policy affiliated with both Heinz College and Machine Learning Department) at Carnegie Mellon University with the Presidential Fellowship. I am a professional member of ACM. 
 
 I am very fortunate to work as full-time intern with Prof. Jun Zhu at Tsinghua University and Prof. Tie-Yan Liu at Microsoft Research during the COVID-19 pandamic. I am actively looking for research internships, collaborations, and external scholarships. Please feel free to contact me at yl3851@uw.edu (till July 2022) and yingtaol@andrew.cmu.edu (after August 2022). 
 
 ## Research Interest
-Data Mining, Machine Learning, Causal Inference and Applications.
+Data Mining, Machine Learning, Causal Inference and Applications especially in Healthcare and Business.
 
 ## Skills
 * Python, Java, MATLAB, C++, JavaScript, Linux, Spark, HTML, etc.

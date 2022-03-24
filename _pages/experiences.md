@@ -10,6 +10,7 @@ redirect_from:
 
 Education
 ======
+* Ph.D. in Information System, Carnegie Mellon University, 2022-present
 * M.S. in Computer Science, University of Washington, 2020-2022
 * B.S. in Physics and Computer Science, Huazhong U of Sci and Tech, 2015-2019
 

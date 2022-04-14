@@ -47,7 +47,7 @@ Academic Services
 ======
 * Conference PC Member:
   * NeurIPS 2021 ML4PS
-  * AAAI 2022
+  * NeurIPS 2022
   * ICLR 2022
   
 Language

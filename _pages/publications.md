@@ -11,7 +11,7 @@ author_profile: true
 
 {% include base_path %}
 
-* Equal Contribution 
+\* Equal Contribution 
   
 ## Data Mining & Causal Inference
 * Deep Stable Representation Learning on Electronic Health Records.  

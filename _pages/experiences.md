@@ -45,10 +45,10 @@ Awards
 
 Academic Services
 ======
-* Conference PC Member:
+* Conference PC Member (aka Reviewer):
   * NeurIPS 2021 ML4PS
   * NeurIPS 2022
-  * ICLR 2022
+  * ICLR 2022 (Highlighted Reviewer)
   
 Language
 ======

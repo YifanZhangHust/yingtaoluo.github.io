@@ -15,7 +15,7 @@ author_profile: true
   
 The titles of some papers are hidden before official acceptance, following the double blind submission rule.  
   
-## Data Mining
+## Data Mining & Causal Inference
 * Deep Stable Representation Learning on Electronic Health Records.  
 __Yingtao Luo__, Zhaocheng Liu, Qiang Liu. [[paper](https://github.com/yingtaoluo/yingtaoluo.github.io/blob/master/_publications/Causal_Healthcare_Embedding.pdf)]  
 *Submitted to KDD 2022*.
@@ -40,7 +40,7 @@ Juyong Jiang, Jae Boum Kim, __Yingtao Luo__, Kai Zhang, Sunghun Kim.
 __Yingtao Luo__, Qiang Liu, Zhaocheng Liu.  
 *Published in The Web Conference (__WWW 2021__)*. [[code](https://github.com/yingtaoluo/Spatial-Temporal-Attention-Network-for-POI-Recommendation)]  [[arXiv](https://arxiv.org/abs/2102.04095)]  [[DOI](https://doi.org/10.1145/3442381.3449998)]  [[talk](https://www.youtube.com/watch?v=ajNzESvOvzs)].
 
-## Machine Learning Dynamics
+## AI For Science & ML Dynamics
 * Learning differential operators for interpretable sequential modeling.  
 __Yingtao Luo__, Chang Xu, Yang Liu, Jiang Bian, Tie-Yan Liu.  
 *Submitted to KDD 2022*.
@@ -53,7 +53,6 @@ Yuntian Chen, __Yingtao Luo__, Qiang Liu, Hao Xu, Dongxiao Zhang.
 __Yingtao Luo__, Qiang Liu, Yuntian Chen, Wenbo Hu, Tian Tian, Jun Zhu.  
 *Submitted to NeurIPS 2022*. [[old arXiv](https://arxiv.org/abs/2106.01078)]
 
-## Interdisciplinary Applications
 * Probability-Density-Based Deep Learning Paradigm for the Fuzzy Design of Functional Metastructures.  
 __Ying-Tao Luo__, Peng-Qi Li, Dong-Ting Li, Yu-Gui Peng, Zhi-Guo Geng,  
 Shu-Huan Xie, Yong Li, Andrea Alù, Jie Zhu, Xue-Feng Zhu.  

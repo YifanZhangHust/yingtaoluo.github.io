@@ -13,8 +13,6 @@ author_profile: true
 
 [Google Scholar](https://scholar.google.com/citations?user=g_MmNEoAAAAJ) (\* Equal Contribution)  
   
-The titles of some papers are hidden before official acceptance, following the double blind submission rule.  
-  
 ## Data Mining & Causal Inference
 * Deep Stable Representation Learning on Electronic Health Records.  
 __Yingtao Luo__, Zhaocheng Liu, Qiang Liu. [[paper](https://github.com/yingtaoluo/yingtaoluo.github.io/blob/master/_publications/Causal_Healthcare_Embedding.pdf)]  

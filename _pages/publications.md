@@ -16,15 +16,15 @@ author_profile: true
 The titles of some papers are hidden before official acceptance, following the double blind submission rule.  
   
 ## Data Mining
-* (A Stable Learning Method for OOD Healthcare Prediction).  
+* Deep Stable Representation Learning on Electronic Health Records.  
 __Yingtao Luo__, Zhaocheng Liu, Qiang Liu. [[paper](https://github.com/yingtaoluo/yingtaoluo.github.io/blob/master/_publications/Causal_Healthcare_Embedding.pdf)]  
 *Submitted to KDD 2022*.
 
-* (A Stable Learning Method for Multi-Interest Recommender System).  
-Zhaocheng Liu, __Yingtao Luo__, Qiang Liu.  
+* Deep Stable Multi-Interest Learning for Sequential Recommendation.  
+Zhaocheng Liu, __Yingtao Luo__, Qiang Liu, et al.  
 *Submitted to KDD 2022*.
 
-* (A Reject Inference model for Financial Credit Scoring).  
+* RMT-Net: Reject-aware Multi-Task Network for Financial Credit Scoring.  
 Qiang Liu, __Yingtao Luo__, Shu Wu, Zhen Zhang, Xiangnan Yue, Hong Jin, Liang Wang.  
 *Accepted to IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE)*. [[paper](https://github.com/yingtaoluo/yingtaoluo.github.io/blob/master/_publications/rmt.pdf)]  
 

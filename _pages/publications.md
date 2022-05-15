@@ -19,7 +19,7 @@ __Yingtao Luo__, Zhaocheng Liu, Qiang Liu. [[paper](https://github.com/yingtaolu
 *Submitted to KDD 2022*.
 
 * Deep Stable Multi-Interest Learning for Sequential Recommendation.  
-Zhaocheng Liu, __Yingtao Luo__, Qiang Liu, et al.  
+Zhaocheng Liu, __Yingtao Luo__, DI Zeng, Qiang Liu, Rui Zhong, Daqing Chang, Dongying Kong, Zhi Chen.  
 *Submitted to KDD 2022*.
 
 * RMT-Net: Reject-aware Multi-Task Network for Financial Credit Scoring.  
@@ -40,7 +40,7 @@ __Yingtao Luo__, Qiang Liu, Zhaocheng Liu.
 
 ## AI For Science & ML Dynamics
 * Learning differential operators for interpretable sequential modeling.  
-__Yingtao Luo__, Chang Xu, Yang Liu, Jiang Bian, Tie-Yan Liu.  
+__Yingtao Luo__, Chang Xu, Yang Liu, Weiqing Liu, Shun Zheng, Jiang Bian.  
 *Submitted to KDD 2022*.
 
 * Any equation is a forest: Symbolic genetic algorithm for discovering open-form partial differential equations.  

@@ -16,11 +16,11 @@ author_profile: true
 ## Data Mining & Causal Inference
 * Deep Stable Representation Learning on Electronic Health Records.  
 __Yingtao Luo__, Zhaocheng Liu, Qiang Liu. [[paper](https://github.com/yingtaoluo/yingtaoluo.github.io/blob/master/_publications/Causal_Healthcare_Embedding.pdf)]  
-*Submitted to KDD 2022*.
+*Under revision*.
 
 * Deep Stable Multi-Interest Learning for Sequential Recommendation.  
 Zhaocheng Liu, __Yingtao Luo__, DI Zeng, Qiang Liu, Rui Zhong, Daqing Chang, Dongying Kong, Zhi Chen.  
-*Submitted to KDD 2022*.
+*Under revision*.
 
 * RMT-Net: Reject-aware Multi-Task Network for Financial Credit Scoring.  
 Qiang Liu, __Yingtao Luo__, Shu Wu, Zhen Zhang, Xiangnan Yue, Hong Jin, Liang Wang.  
@@ -41,7 +41,7 @@ __Yingtao Luo__, Qiang Liu, Zhaocheng Liu.
 ## AI For Science & ML Dynamics
 * Learning differential operators for interpretable sequential modeling.  
 __Yingtao Luo__, Chang Xu, Yang Liu, Weiqing Liu, Shun Zheng, Jiang Bian.  
-*Submitted to KDD 2022*.
+*Accepted to KDD 2022*.
 
 * Any equation is a forest: Symbolic genetic algorithm for discovering open-form partial differential equations.  
 Yuntian Chen, __Yingtao Luo__, Qiang Liu, Hao Xu, Dongxiao Zhang.  

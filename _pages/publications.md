@@ -16,11 +16,11 @@ author_profile: true
 ## Data Mining & Causal Inference
 * Deep Stable Representation Learning on Electronic Health Records.  
 __Yingtao Luo__, Zhaocheng Liu, Qiang Liu. [[paper](https://github.com/yingtaoluo/yingtaoluo.github.io/blob/master/_publications/Causal_Healthcare_Embedding.pdf)]  
-*Under revision*.
+*Under review*.
 
 * Deep Stable Multi-Interest Learning for Sequential Recommendation.  
 Zhaocheng Liu, __Yingtao Luo__, DI Zeng, Qiang Liu, Rui Zhong, Daqing Chang, Dongying Kong, Zhi Chen.  
-*Under revision*.
+*Submitted to CIKM 2022*.
 
 * RMT-Net: Reject-aware Multi-Task Network for Financial Credit Scoring.  
 Qiang Liu, __Yingtao Luo__, Shu Wu, Zhen Zhang, Xiangnan Yue, Hong Jin, Liang Wang.  

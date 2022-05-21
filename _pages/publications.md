@@ -43,7 +43,7 @@ __Yingtao Luo__, Qiang Liu, Zhaocheng Liu.
 __Yingtao Luo__, Chang Xu, Yang Liu, Weiqing Liu, Shun Zheng, Jiang Bian.  
 *Accepted to KDD 2022*.
 
-* Any equation is a forest: Symbolic genetic algorithm for discovering open-form partial differential equations.  
+* Symbolic genetic algorithm for discovering open-form partial differential equations (SGA-PDE).  
 Yuntian Chen, __Yingtao Luo__, Qiang Liu, Hao Xu, Dongxiao Zhang.  
 *Accepted to Physical Review Research*. [[code](https://github.com/yingtaoluo/PDE-Discovery-with-Evolutionary-Tree-Search)]  [[arXiv](https://arxiv.org/abs/2106.11927)] 
   

@@ -13,7 +13,7 @@ author_profile: true
 
 \* Equal Contribution 
   
-## Data Mining & Causal Inference
+## Data Mining For Business & Health
 * Deep Stable Representation Learning on Electronic Health Records.  
 __Yingtao Luo__, Zhaocheng Liu, Qiang Liu. [[paper](https://github.com/yingtaoluo/yingtaoluo.github.io/blob/master/_publications/Causal_Healthcare_Embedding.pdf)]  
 *Under review*.

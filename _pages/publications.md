@@ -45,7 +45,7 @@ __Yingtao Luo__, Chang Xu, Yang Liu, Weiqing Liu, Shun Zheng, Jiang Bian.
 
 * Symbolic genetic algorithm for discovering open-form partial differential equations (SGA-PDE).  
 Yuntian Chen, __Yingtao Luo__, Qiang Liu, Hao Xu, Dongxiao Zhang.  
-*Accepted to Physical Review Research*. [[code](https://github.com/yingtaoluo/PDE-Discovery-with-Evolutionary-Tree-Search)]  [[arXiv](https://arxiv.org/abs/2106.11927)] 
+*Accepted to Physical Review Research*. [[code](https://github.com/yingtaoluo/PDE-Discovery-with-Evolutionary-Tree-Search)]  [[arXiv](https://arxiv.org/abs/2106.11927)]  [[DOI](https://doi.org/10.1103/PhysRevResearch.4.023174)]
   
 * Physics-Guided Discovery of Highly Nonlinear Parametric Partial Differential Equations.  
 __Yingtao Luo__, Qiang Liu, Yuntian Chen, Wenbo Hu, Tian Tian, Jun Zhu.  

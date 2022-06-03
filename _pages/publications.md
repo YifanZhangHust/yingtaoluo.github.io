@@ -31,7 +31,7 @@ Juyong Jiang, __Yingtao Luo__, Jae Boum Kim, Kai Zhang, Sunghun Kim. [[arXiv](ht
 *Submitted to CIKM 2022*. 
 
 * AdaMCT: Adaptive Mixture of CNN-Transformer for Sequential Recommendation.  
-Juyong Jiang, Jae Boum Kim, __Yingtao Luo__, Kai Zhang, Sunghun Kim.  
+Juyong Jiang, Jae Boum Kim, __Yingtao Luo__, Kai Zhang, Sunghun Kim. [[arXiv](https://arxiv.org/abs/2205.08776)]  
 *Submitted to CIKM 2022*. 
 
 * STAN: Spatio-Temporal Attention Network for the Next Location Recommendation.  

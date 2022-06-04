@@ -15,8 +15,8 @@ author_profile: true
   
 ## Data Mining For Business & Health
 * Deep Stable Representation Learning on Electronic Health Records.  
-__Yingtao Luo__, Zhaocheng Liu, Qiang Liu. [[paper](https://github.com/yingtaoluo/yingtaoluo.github.io/blob/master/_publications/Causal_Healthcare_Embedding.pdf)]  
-*Under review*.
+__Yingtao Luo__, Zhaocheng Liu, Qiang Liu.  
+*Under review*.  [[paper](https://github.com/yingtaoluo/yingtaoluo.github.io/blob/master/_publications/Causal_Healthcare_Embedding.pdf)]  
 
 * Deep Stable Multi-Interest Learning for Sequential Recommendation.  
 Zhaocheng Liu, __Yingtao Luo__, DI Zeng, Qiang Liu, Rui Zhong, Daqing Chang, Dongying Kong, Zhi Chen.  
@@ -27,12 +27,12 @@ Qiang Liu, __Yingtao Luo__, Shu Wu, Zhen Zhang, Xiangnan Yue, Hong Jin, Liang Wa
 *Published in IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE)*. [[DOI](https://doi.org/10.1109/TKDE.2022.3179025)]  [[arXiv](https://arxiv.org/abs/2206.00568)]  
 
 * Sequential Recommendation with Bidirectional Chronological Augmentation of Transformer.  
-Juyong Jiang, __Yingtao Luo__, Jae Boum Kim, Kai Zhang, Sunghun Kim. [[arXiv](https://arxiv.org/pdf/2112.06460.pdf)]   
-*Submitted to CIKM 2022*. 
+Juyong Jiang, __Yingtao Luo__, Jae Boum Kim, Kai Zhang, Sunghun Kim. 
+*Submitted to CIKM 2022*. [[arXiv](https://arxiv.org/pdf/2112.06460.pdf)]   
 
 * AdaMCT: Adaptive Mixture of CNN-Transformer for Sequential Recommendation.  
-Juyong Jiang, Jae Boum Kim, __Yingtao Luo__, Kai Zhang, Sunghun Kim. [[arXiv](https://arxiv.org/abs/2205.08776)]  
-*Submitted to CIKM 2022*. 
+Juyong Jiang, Jae Boum Kim, __Yingtao Luo__, Kai Zhang, Sunghun Kim. 
+*Submitted to CIKM 2022*. [[arXiv](https://arxiv.org/abs/2205.08776)]  
 
 * STAN: Spatio-Temporal Attention Network for the Next Location Recommendation.  
 __Yingtao Luo__, Qiang Liu, Zhaocheng Liu.  
@@ -41,7 +41,7 @@ __Yingtao Luo__, Qiang Liu, Zhaocheng Liu.
 ## AI For Science & ML Dynamics
 * Learning differential operators for interpretable sequential modeling.  
 __Yingtao Luo__, Chang Xu, Yang Liu, Weiqing Liu, Shun Zheng, Jiang Bian.  
-*Accepted to KDD 2022*.
+*Accepted to KDD 2022*.  [[DOI](https://doi.org/10.1145/3534678.3539245)]
 
 * Symbolic genetic algorithm for discovering open-form partial differential equations (SGA-PDE).  
 Yuntian Chen, __Yingtao Luo__, Qiang Liu, Hao Xu, Dongxiao Zhang.  

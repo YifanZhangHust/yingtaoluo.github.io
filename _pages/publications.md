@@ -24,7 +24,7 @@ Zhaocheng Liu, __Yingtao Luo__, DI Zeng, Qiang Liu, Rui Zhong, Daqing Chang, Don
 
 * RMT-Net: Reject-aware Multi-Task Network for Financial Credit Scoring.  
 Qiang Liu, __Yingtao Luo__, Shu Wu, Zhen Zhang, Xiangnan Yue, Hong Jin, Liang Wang.  
-*Published in IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE)*. [[DOI](10.1109/TKDE.2022.3179025)]  [[arXiv](https://arxiv.org/abs/2206.00568)]  
+*Published in IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE)*. [[DOI](https://doi.org/10.1109/TKDE.2022.3179025)]  [[arXiv](https://arxiv.org/abs/2206.00568)]  
 
 * Sequential Recommendation with Bidirectional Chronological Augmentation of Transformer.  
 Juyong Jiang, __Yingtao Luo__, Jae Boum Kim, Kai Zhang, Sunghun Kim. [[arXiv](https://arxiv.org/pdf/2112.06460.pdf)]   

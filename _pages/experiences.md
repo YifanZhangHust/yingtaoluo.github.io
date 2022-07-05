@@ -14,13 +14,13 @@ Education
 * M.S. in Computer Science, University of Washington, 2020-2022
 * B.S. in Physics and Computer Science, Huazhong U of Sci and Tech, 2015-2019
 
-Research Experiences
+Internships
 ======
 * 2021.07 -- 2022.03: Research Intern, Machine Learning Group, Microsoft Research Asia 
   * Project: PDE learning, ODE Graph, and [Qlib](https://github.com/microsoft/qlib) development.
   * Advisor: [Dr. Chang Xu](https://scholar.google.com.hk/citations?user=uOCiy2gAAAAJ), [Dr. Jiang Bian](https://sites.google.com/view/jiangbian) and [Prof. Tie-Yan Liu](https://www.microsoft.com/en-us/research/people/tyliu/)
 
-* 2020.06 -- 2021.07: Machine Learning Intern, Tsinghua-Bosch Joint Lab & RealAI
+* 2020.06 -- 2021.06: Machine Learning Intern, Tsinghua-Bosch Joint Lab & RealAI
   * Project: Machine learning of PDE, Medicine, Business and Fairness.
   * Advisor: [Prof. Qiang Liu](https://john-qiangliu.tech/) and [Prof. Jun Zhu](http://ml.cs.tsinghua.edu.cn/~jun/index.shtml)
 

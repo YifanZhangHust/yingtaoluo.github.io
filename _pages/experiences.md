@@ -14,25 +14,15 @@ Education
 * M.S. in Computer Science, University of Washington, 2020-2022
 * B.S. in Physics and Computer Science, Huazhong U of Sci and Tech, 2015-2019
 
-Work Experiences
+Research Experiences
 ======
-* 2021.05 -- 2022.03: Research Intern, Machine Learning Group, Microsoft Research Asia 
+* 2021.07 -- 2022.03: Research Intern, Machine Learning Group, Microsoft Research Asia 
   * Project: PDE learning, ODE Graph, and [Qlib](https://github.com/microsoft/qlib) development.
   * Advisor: [Dr. Chang Xu](https://scholar.google.com.hk/citations?user=uOCiy2gAAAAJ), [Dr. Jiang Bian](https://sites.google.com/view/jiangbian) and [Prof. Tie-Yan Liu](https://www.microsoft.com/en-us/research/people/tyliu/)
 
-* 2020.06 -- 2021.05: Research Assistant, Tsinghua-Bosch Joint Lab, Tsinghua University 
-  * Project: Machine learning PDE.
-  * Advisor: [Prof. Jun Zhu](http://ml.cs.tsinghua.edu.cn/~jun/index.shtml)
-
-* 2020.06 -- 2021.05: Machine Learning Intern, RealAI
-  * Project: Web mining and user modeling.
-  * Advisor: [Prof. Qiang Liu](https://john-qiangliu.tech/)
-
-* 2020.03 -- 2020.05: Machine Learning Intern, Machine Learning Group, Baidu Research
-  * Project: [PaddlePaddle](https://github.com/PaddlePaddle) development and testing.
-
-* 2019.08 -- 2020.01: Machine Learning Software Engineer, ZSFAB
-  * Project: Machine learning design of healthcare devices.
+* 2020.06 -- 2021.07: Machine Learning Intern, Tsinghua-Bosch Joint Lab & RealAI
+  * Project: Machine learning of PDE, Medicine, Business and Fairness.
+  * Advisor: [Prof. Qiang Liu](https://john-qiangliu.tech/) and [Prof. Jun Zhu](http://ml.cs.tsinghua.edu.cn/~jun/index.shtml)
 
 Awards
 ======

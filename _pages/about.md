@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 ## Biography
-My name is Yingtao Luo (Ying-Tao Luo). I will receive a graduate master's degree in computer science from the University of Washington lately. I will continue my Ph.D. study in information system (and later if everything goes well, the Joint Degree in Machine Learning and Public Policy affiliated with both Heinz College and Machine Learning Department) at Carnegie Mellon University with the Presidential Fellowship. I am a professional member of ACM. 
+My name is Yingtao Luo (Ying-Tao Luo). I will continue my Ph.D. study in information system (and later if everything goes well, the Joint Degree in Machine Learning and Public Policy affiliated with both Heinz College and Machine Learning Department) at Carnegie Mellon University with the Presidential Fellowship. I am a professional member of ACM. 
 
 I am actively looking for research internships, collaborations, and external scholarships. Please feel free to contact me at yingtaoluo@cmu.edu (Originally, it was yl3851@uw.edu). 
 

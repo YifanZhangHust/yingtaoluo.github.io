@@ -11,7 +11,7 @@ redirect_from:
 ## Biography
 My name is Yingtao Luo (Ying-Tao Luo). I will continue my Ph.D. study in information system (and later if everything goes well, the Joint Degree in Machine Learning and Public Policy affiliated with both Heinz College and Machine Learning Department) at Carnegie Mellon University with the Presidential Fellowship. I am a professional member of ACM. 
 
-I am actively looking for research internships, collaborations, and external scholarships. Please feel free to contact me at yingtaoluo@cmu.edu (Originally, it was yl3851@uw.edu). My CV can be found [here](https://github.com/yingtaoluo/yingtaoluo.github.io/blob/master/files/CV_Luoyt.pdf).
+I am generally interested in research internships, collaborations and fundings. Please feel free to contact me at yingtaoluo@cmu.edu (Originally, it was yl3851@uw.edu). My CV can be found [here](https://github.com/yingtaoluo/yingtaoluo.github.io/blob/master/files/CV_Luoyt.pdf).
 
 ## Research Interest
 Data Mining, Machine Learning, Causal Inference and Applications in Healthcare and Business.

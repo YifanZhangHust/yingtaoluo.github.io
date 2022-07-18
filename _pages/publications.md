@@ -54,7 +54,7 @@ Ziyang Zhang\*, __Yingtao Luo\*__, Huawen Peng, Yu Chen., Rong-Zhen Liao, QiangZ
 
 ## Preprints
 * Sequential Recommendation with Bidirectional Chronological Augmentation of Transformer.  
-Juyong Jiang, Jae Boum Kim,  __Yingtao Luo__, Kai Zhang, Sunghun Kim.  
+Juyong Jiang,  __Yingtao Luo__, Jae Boum Kim, Kai Zhang, Sunghun Kim.  
 *Preprint*. [[arXiv](https://arxiv.org/pdf/2112.06460.pdf)]   
 
 * AdaMCT: Adaptive Mixture of CNN-Transformer for Sequential Recommendation.  

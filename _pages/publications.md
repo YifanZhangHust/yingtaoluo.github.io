@@ -18,9 +18,9 @@ author_profile: true
 __Yingtao Luo__, Zhaocheng Liu, Qiang Liu.  
 *Under review*.  [[paper](https://github.com/yingtaoluo/yingtaoluo.github.io/blob/master/_publications/Causal_Healthcare_Embedding.pdf)]  
 
-* Deep Stable Multi-Interest Learning for Sequential Recommendation.  
-Zhaocheng Liu, __Yingtao Luo__, DI Zeng, Qiang Liu, Rui Zhong, Daqing Chang, Dongying Kong, Zhi Chen.  
-*Under review*.  
+* Improving Multi-Interest Network with Stable Learning.  
+Zhaocheng Liu, __Yingtao Luo__, Di Zeng, Qiang Liu, Rui Zhong, Daqing Chang, Dongying Kong, Zhi Chen.  
+*Under review*.  [[arXiv](https://arxiv.org/abs/2207.07910)]
 
 * RMT-Net: Reject-aware Multi-Task Network for Financial Credit Scoring.  
 Qiang Liu, __Yingtao Luo__, Shu Wu, Zhen Zhang, Xiangnan Yue, Hong Jin, Liang Wang.  

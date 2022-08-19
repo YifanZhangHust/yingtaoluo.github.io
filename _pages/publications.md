@@ -33,7 +33,7 @@ __Yingtao Luo__, Qiang Liu, Zhaocheng Liu.
 ## AI For Science & ML Dynamics
 * Learning differential operators for interpretable sequential modeling.  
 __Yingtao Luo__, Chang Xu, Yang Liu, Weiqing Liu, Shun Zheng, Jiang Bian.  
-*Publishsed in KDD 2022*.  [[DOI](https://doi.org/10.1145/3534678.3539245)]  [[Paper](https://github.com/yingtaoluo/yingtaoluo.github.io/blob/master/_publications/Learning_differential_operators_for_interpretable_time_series_modeling__Camera_Ready_%20(1).pdf)]
+*Publishsed in KDD 2022*.  [[DOI](https://doi.org/10.1145/3534678.3539245)]  [[Poster](https://github.com/yingtaoluo/yingtaoluo.github.io/blob/master/_publications/LDO_poster.pdf)]
 
 * Symbolic genetic algorithm for discovering open-form partial differential equations (SGA-PDE).  
 Yuntian Chen, __Yingtao Luo__, Qiang Liu, Hao Xu, Dongxiao Zhang.  

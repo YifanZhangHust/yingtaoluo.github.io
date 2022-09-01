@@ -34,10 +34,6 @@ __Yingtao Luo__, Chang Xu, Yang Liu, Weiqing Liu, Shun Zheng, Jiang Bian.
 * Symbolic genetic algorithm for discovering open-form partial differential equations (SGA-PDE).  
 Yuntian Chen, __Yingtao Luo__, Qiang Liu, Hao Xu, Dongxiao Zhang.  
 *Published in Physical Review Research*. [[code](https://github.com/yingtaoluo/PDE-Discovery-with-Evolutionary-Tree-Search)]  [[PDF](https://journals.aps.org/prresearch/pdf/10.1103/PhysRevResearch.4.023174)]  [[DOI](https://doi.org/10.1103/PhysRevResearch.4.023174)]
-  
-* Physics-Guided Discovery of Highly Nonlinear Parametric Partial Differential Equations.  
-__Yingtao Luo__, Qiang Liu, Yuntian Chen, Wenbo Hu, Tian Tian, Jun Zhu.  
-*Submitted to Journal of Computational Physics*. [[old arXiv](https://arxiv.org/abs/2106.01078)]
 
 * Probability-Density-Based Deep Learning Paradigm for the Fuzzy Design of Functional Metastructures.  
 __Ying-Tao Luo__, Peng-Qi Li, Dong-Ting Li, Yu-Gui Peng, Zhi-Guo Geng,  
@@ -52,6 +48,10 @@ Ziyang Zhang\*, __Yingtao Luo\*__, Huawen Peng, Yu Chen., Rong-Zhen Liao, QiangZ
 * Improving Multi-Interest Network with Stable Learning.  
 Zhaocheng Liu, __Yingtao Luo__, Di Zeng, Qiang Liu, Rui Zhong, Daqing Chang, Dongying Kong, Zhi Chen.  
 *Under review*.  [[arXiv](https://arxiv.org/abs/2207.07910)]
+
+* Physics-Guided Discovery of Highly Nonlinear Parametric Partial Differential Equations.  
+__Yingtao Luo__, Qiang Liu, Yuntian Chen, Wenbo Hu, Tian Tian, Jun Zhu.  
+*Submitted to Journal of Computational Physics*. [[old arXiv](https://arxiv.org/abs/2106.01078)]
 
 * Sequential Recommendation with Bidirectional Chronological Augmentation of Transformer.  
 Juyong Jiang,  __Yingtao Luo__, Jae Boum Kim, Kai Zhang, Sunghun Kim.  

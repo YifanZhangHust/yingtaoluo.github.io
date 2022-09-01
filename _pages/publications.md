@@ -18,10 +18,6 @@ author_profile: true
 __Yingtao Luo__, Zhaocheng Liu, Qiang Liu.  
 *Published in IEEE International Conference on Data Mining (ICDM 2022)*.  [[paper](https://github.com/yingtaoluo/yingtaoluo.github.io/blob/master/_publications/Causal_Healthcare_Embedding.pdf)]  
 
-* Improving Multi-Interest Network with Stable Learning.  
-Zhaocheng Liu, __Yingtao Luo__, Di Zeng, Qiang Liu, Rui Zhong, Daqing Chang, Dongying Kong, Zhi Chen.  
-*Under review*.  [[arXiv](https://arxiv.org/abs/2207.07910)]
-
 * RMT-Net: Reject-aware Multi-Task Network for Financial Credit Scoring.  
 Qiang Liu, __Yingtao Luo__, Shu Wu, Zhen Zhang, Xiangnan Yue, Hong Jin, Liang Wang.  
 *Published in IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE)*. [[DOI](https://doi.org/10.1109/TKDE.2022.3179025)]  [[arXiv](https://arxiv.org/abs/2206.00568)]  
@@ -53,6 +49,10 @@ Ziyang Zhang\*, __Yingtao Luo\*__, Huawen Peng, Yu Chen., Rong-Zhen Liao, QiangZ
 *Published in Journal of Membrane Science. Poster at NeurIPS 2020 ML4Mol*. [[code](https://github.com/yingtaoluo/Nanofiltration-Membrane-Deep-Learning)]  [[DOI](https://doi.org/10.1016/j.memsci.2020.118910)] 
 
 ## Preprints
+* Improving Multi-Interest Network with Stable Learning.  
+Zhaocheng Liu, __Yingtao Luo__, Di Zeng, Qiang Liu, Rui Zhong, Daqing Chang, Dongying Kong, Zhi Chen.  
+*Under review*.  [[arXiv](https://arxiv.org/abs/2207.07910)]
+
 * Sequential Recommendation with Bidirectional Chronological Augmentation of Transformer.  
 Juyong Jiang,  __Yingtao Luo__, Jae Boum Kim, Kai Zhang, Sunghun Kim.  
 *Preprint*. [[arXiv](https://arxiv.org/pdf/2112.06460.pdf)]   

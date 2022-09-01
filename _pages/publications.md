@@ -16,7 +16,7 @@ author_profile: true
 ## Data Mining For Business & Health
 * Deep Stable Representation Learning on Electronic Health Records.  
 __Yingtao Luo__, Zhaocheng Liu, Qiang Liu.  
-*Under review*.  [[paper](https://github.com/yingtaoluo/yingtaoluo.github.io/blob/master/_publications/Causal_Healthcare_Embedding.pdf)]  
+*Publishsed in IEEE ICDM 2022*.  [[paper](https://github.com/yingtaoluo/yingtaoluo.github.io/blob/master/_publications/Causal_Healthcare_Embedding.pdf)]  
 
 * Improving Multi-Interest Network with Stable Learning.  
 Zhaocheng Liu, __Yingtao Luo__, Di Zeng, Qiang Liu, Rui Zhong, Daqing Chang, Dongying Kong, Zhi Chen.  
@@ -33,7 +33,7 @@ __Yingtao Luo__, Qiang Liu, Zhaocheng Liu.
 ## AI For Science & ML Dynamics
 * Learning differential operators for interpretable sequential modeling.  
 __Yingtao Luo__, Chang Xu, Yang Liu, Weiqing Liu, Shun Zheng, Jiang Bian.  
-*Publishsed in KDD 2022*.  [[DOI](https://doi.org/10.1145/3534678.3539245)]  [[Poster](https://github.com/yingtaoluo/yingtaoluo.github.io/blob/master/_publications/LDO_poster.pdf)]
+*Publishsed in ACM SIGKDD 2022*.  [[DOI](https://doi.org/10.1145/3534678.3539245)]  [[Poster](https://github.com/yingtaoluo/yingtaoluo.github.io/blob/master/_publications/LDO_poster.pdf)]
 
 * Symbolic genetic algorithm for discovering open-form partial differential equations (SGA-PDE).  
 Yuntian Chen, __Yingtao Luo__, Qiang Liu, Hao Xu, Dongxiao Zhang.  

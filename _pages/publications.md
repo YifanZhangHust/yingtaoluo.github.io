@@ -41,7 +41,7 @@ Yuntian Chen, __Yingtao Luo__, Qiang Liu, Hao Xu, Dongxiao Zhang.
   
 * Physics-Guided Discovery of Highly Nonlinear Parametric Partial Differential Equations.  
 __Yingtao Luo__, Qiang Liu, Yuntian Chen, Wenbo Hu, Tian Tian, Jun Zhu.  
-*Submitted to NeurIPS 2022*. [[old arXiv](https://arxiv.org/abs/2106.01078)]
+*Submitted to Journal of Computational Physics*. [[old arXiv](https://arxiv.org/abs/2106.01078)]
 
 * Probability-Density-Based Deep Learning Paradigm for the Fuzzy Design of Functional Metastructures.  
 __Ying-Tao Luo__, Peng-Qi Li, Dong-Ting Li, Yu-Gui Peng, Zhi-Guo Geng,  

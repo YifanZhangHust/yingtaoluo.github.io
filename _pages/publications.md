@@ -50,7 +50,7 @@ Zhaocheng Liu, __Yingtao Luo__, Di Zeng, Qiang Liu, Rui Zhong, Daqing Chang, Don
 *Under review*.  [[arXiv](https://arxiv.org/abs/2207.07910)]
 
 * Physics-Guided Discovery of Highly Nonlinear Parametric Partial Differential Equations.  
-__Yingtao Luo__, Qiang Liu, Yuntian Chen, Wenbo Hu, Tian Tian, Jun Zhu.  
+__Yingtao Luo__, Qiang Liu, Yuntian Chen, Wenbo Hu, Jun Zhu.  
 *Submitted to Journal of Computational Physics*. [[old arXiv](https://arxiv.org/abs/2106.01078)]
 
 * Sequential Recommendation with Bidirectional Chronological Augmentation of Transformer.  

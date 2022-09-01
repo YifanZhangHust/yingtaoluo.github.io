@@ -22,15 +22,15 @@ __Yingtao Luo__, Zhaocheng Liu, Qiang Liu.
 Qiang Liu, __Yingtao Luo__, Shu Wu, Zhen Zhang, Xiangnan Yue, Hong Jin, Liang Wang.  
 *Published in IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE)*. [[DOI](https://doi.org/10.1109/TKDE.2022.3179025)]  [[arXiv](https://arxiv.org/abs/2206.00568)]  
 
+* Learning differential operators for interpretable sequential modeling.  
+__Yingtao Luo__, Chang Xu, Yang Liu, Weiqing Liu, Shun Zheng, Jiang Bian.  
+*Publishsed in ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2022)*.  [[DOI](https://doi.org/10.1145/3534678.3539245)]  [[Poster](https://github.com/yingtaoluo/yingtaoluo.github.io/blob/master/_publications/LDO_poster.pdf)]
+
 * STAN: Spatio-Temporal Attention Network for the Next Location Recommendation.  
 __Yingtao Luo__, Qiang Liu, Zhaocheng Liu.  
 *Published in The Web Conference (WWW 2021)*. [[code](https://github.com/yingtaoluo/Spatial-Temporal-Attention-Network-for-POI-Recommendation)]  [[arXiv](https://arxiv.org/abs/2102.04095)]  [[DOI](https://doi.org/10.1145/3442381.3449998)]  [[talk](https://www.youtube.com/watch?v=ajNzESvOvzs)].
 
 ## AI For Science & ML Dynamics
-* Learning differential operators for interpretable sequential modeling.  
-__Yingtao Luo__, Chang Xu, Yang Liu, Weiqing Liu, Shun Zheng, Jiang Bian.  
-*Publishsed in ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2022)*.  [[DOI](https://doi.org/10.1145/3534678.3539245)]  [[Poster](https://github.com/yingtaoluo/yingtaoluo.github.io/blob/master/_publications/LDO_poster.pdf)]
-
 * Symbolic genetic algorithm for discovering open-form partial differential equations (SGA-PDE).  
 Yuntian Chen, __Yingtao Luo__, Qiang Liu, Hao Xu, Dongxiao Zhang.  
 *Published in Physical Review Research*. [[code](https://github.com/yingtaoluo/PDE-Discovery-with-Evolutionary-Tree-Search)]  [[PDF](https://journals.aps.org/prresearch/pdf/10.1103/PhysRevResearch.4.023174)]  [[DOI](https://doi.org/10.1103/PhysRevResearch.4.023174)]

@@ -51,12 +51,12 @@ Zhaocheng Liu, __Yingtao Luo__, Di Zeng, Qiang Liu, Rui Zhong, Daqing Chang, Don
 
 * Physics-Guided Discovery of Highly Nonlinear Parametric Partial Differential Equations.  
 __Yingtao Luo__, Qiang Liu, Yuntian Chen, Wenbo Hu, Jun Zhu.  
-*Submitted to Journal of Computational Physics*. [[old arXiv](https://arxiv.org/abs/2106.01078)]
+*Under review*. [[old arXiv](https://arxiv.org/abs/2106.01078)]
 
 * Sequential Recommendation with Bidirectional Chronological Augmentation of Transformer.  
 Juyong Jiang,  __Yingtao Luo__, Jae Boum Kim, Kai Zhang, Sunghun Kim.  
-*Preprint*. [[arXiv](https://arxiv.org/pdf/2112.06460.pdf)]   
+*Under review*. [[arXiv](https://arxiv.org/pdf/2112.06460.pdf)]   
 
 * AdaMCT: Adaptive Mixture of CNN-Transformer for Sequential Recommendation.  
 Juyong Jiang, Jae Boum Kim, __Yingtao Luo__, Kai Zhang, Sunghun Kim.  
-*Preprint*. [[arXiv](https://arxiv.org/abs/2205.08776)]  
+*Under review*. [[arXiv](https://arxiv.org/abs/2205.08776)]  

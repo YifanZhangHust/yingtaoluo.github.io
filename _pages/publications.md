@@ -16,33 +16,33 @@ author_profile: true
 ## Data Mining For Business & Health
 * Deep Stable Representation Learning on Electronic Health Records.  
 __Yingtao Luo__, Zhaocheng Liu, Qiang Liu.  
-*Published in IEEE International Conference on Data Mining (ICDM 2022)*.  [[paper](https://github.com/yingtaoluo/yingtaoluo.github.io/blob/master/_publications/Causal_Healthcare_Embedding.pdf)]  
+*IEEE International Conference on Data Mining (ICDM 2022)*.  [[paper](https://github.com/yingtaoluo/yingtaoluo.github.io/blob/master/_publications/Causal_Healthcare_Embedding.pdf)]  
 
 * RMT-Net: Reject-aware Multi-Task Network for Financial Credit Scoring.  
 Qiang Liu, __Yingtao Luo__, Shu Wu, Zhen Zhang, Xiangnan Yue, Hong Jin, Liang Wang.  
-*Published in IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE)*. [[DOI](https://doi.org/10.1109/TKDE.2022.3179025)]  [[arXiv](https://arxiv.org/abs/2206.00568)]  
+*IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE)*. [[DOI](https://doi.org/10.1109/TKDE.2022.3179025)]  [[arXiv](https://arxiv.org/abs/2206.00568)]  
 
 * Learning differential operators for interpretable time series modeling.  
 __Yingtao Luo__, Chang Xu, Yang Liu, Weiqing Liu, Shun Zheng, Jiang Bian.  
-*Publishsed in ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2022)*.  [[DOI](https://doi.org/10.1145/3534678.3539245)]  [[Poster](https://github.com/yingtaoluo/yingtaoluo.github.io/blob/master/_publications/LDO_poster.pdf)]
+*ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2022)*.  [[DOI](https://doi.org/10.1145/3534678.3539245)]  [[Poster](https://github.com/yingtaoluo/yingtaoluo.github.io/blob/master/_publications/LDO_poster.pdf)]
 
 * STAN: Spatio-Temporal Attention Network for the Next Location Recommendation.  
 __Yingtao Luo__, Qiang Liu, Zhaocheng Liu.  
-*Published in The Web Conference (WWW 2021)*. [[code](https://github.com/yingtaoluo/Spatial-Temporal-Attention-Network-for-POI-Recommendation)]  [[arXiv](https://arxiv.org/abs/2102.04095)]  [[DOI](https://doi.org/10.1145/3442381.3449998)]  [[talk](https://www.youtube.com/watch?v=ajNzESvOvzs)].
+*The Web Conference (WWW 2021)*. [[code](https://github.com/yingtaoluo/Spatial-Temporal-Attention-Network-for-POI-Recommendation)]  [[arXiv](https://arxiv.org/abs/2102.04095)]  [[DOI](https://doi.org/10.1145/3442381.3449998)]  [[talk](https://www.youtube.com/watch?v=ajNzESvOvzs)].
 
 ## AI For Science & ML Dynamics
 * Symbolic genetic algorithm for discovering open-form partial differential equations (SGA-PDE).  
 Yuntian Chen, __Yingtao Luo__, Qiang Liu, Hao Xu, Dongxiao Zhang.  
-*Published in Physical Review Research*. [[code](https://github.com/yingtaoluo/PDE-Discovery-with-Evolutionary-Tree-Search)]  [[PDF](https://journals.aps.org/prresearch/pdf/10.1103/PhysRevResearch.4.023174)]  [[DOI](https://doi.org/10.1103/PhysRevResearch.4.023174)]
+*Physical Review Research*. [[code](https://github.com/yingtaoluo/PDE-Discovery-with-Evolutionary-Tree-Search)]  [[PDF](https://journals.aps.org/prresearch/pdf/10.1103/PhysRevResearch.4.023174)]  [[DOI](https://doi.org/10.1103/PhysRevResearch.4.023174)]
 
 * Probability-Density-Based Deep Learning Paradigm for the Fuzzy Design of Functional Metastructures.  
 __Ying-Tao Luo__, Peng-Qi Li, Dong-Ting Li, Yu-Gui Peng, Zhi-Guo Geng,  
 Shu-Huan Xie, Yong Li, Andrea Alù, Jie Zhu, Xue-Feng Zhu.  
-*Published in Research (Flagship Science Partner Journal of AAAS). Oral at NeurIPS 2020 ML4PS*. [[code](http://github.com/yingtaoluo/Probabilistic-density-network)]  [[DOI](https://doi.org/10.34133/2020/8757403)]
+*Research (Flagship Science Partner Journal of AAAS). Oral at NeurIPS 2020 ML4PS*. [[code](http://github.com/yingtaoluo/Probabilistic-density-network)]  [[DOI](https://doi.org/10.34133/2020/8757403)]
   
 * Deep spatial representation learning of polyamide nanofiltration membranes.  
 Ziyang Zhang\*, __Yingtao Luo\*__, Huawen Peng, Yu Chen., Rong-Zhen Liao, QiangZhao.  
-*Published in Journal of Membrane Science. Poster at NeurIPS 2020 ML4Mol*. [[code](https://github.com/yingtaoluo/Nanofiltration-Membrane-Deep-Learning)]  [[DOI](https://doi.org/10.1016/j.memsci.2020.118910)] 
+*Journal of Membrane Science. Poster at NeurIPS 2020 ML4Mol*. [[code](https://github.com/yingtaoluo/Nanofiltration-Membrane-Deep-Learning)]  [[DOI](https://doi.org/10.1016/j.memsci.2020.118910)] 
 
 ## Preprints
 * Improving Multi-Interest Network with Stable Learning.  

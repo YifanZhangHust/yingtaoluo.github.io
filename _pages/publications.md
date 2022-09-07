@@ -16,7 +16,7 @@ author_profile: true
 ## Data Mining For Business & Health
 * Deep Stable Representation Learning on Electronic Health Records.  
 __Yingtao Luo__, Zhaocheng Liu, Qiang Liu.  
-*IEEE International Conference on Data Mining (ICDM 2022)*.  [[paper](https://github.com/yingtaoluo/yingtaoluo.github.io/blob/master/_publications/Causal_Healthcare_Embedding.pdf)]  
+*IEEE International Conference on Data Mining (ICDM 2022)*. [[arXiv](https://arxiv.org/abs/2209.01321)]
 
 * RMT-Net: Reject-aware Multi-Task Network for Financial Credit Scoring.  
 Qiang Liu, __Yingtao Luo__, Shu Wu, Zhen Zhang, Xiangnan Yue, Hong Jin, Liang Wang.  
